@@ -1,7 +1,7 @@
 {
   "lignes": [
     {
-      "ligne": "TCM Sombre",
+      "ligne": "TCM",
       "infos_trafic": [
         {
           "annonce": "05/04/2023",
@@ -16,9 +16,9 @@
       "ligne": "2",
       "infos_trafic": [
         {
-          "annonce": "2023-05-04",
-          "debut": "2023-05-05",
-          "fin": "2023-05-06",
+          "annonce": "05/04/2023",
+          "debut": "05/07/2023",
+          "fin": "05/11/2023",
           "titre": "Travaux place de Jaude",
           "description": "En raison de travaux sur la place, l'arrêt n'est pas desservi"
         }
@@ -28,9 +28,9 @@
       "ligne": "60",
       "infos_trafic": [
         {
-          "annonce": "04/05/2023",
+          "annonce": "05/05/2023",
           "debut": "05/05/2023",
-          "fin": "06/05/2023",
+          "fin": "05/08/2023",
           "titre": "Lancement de la ligne",
           "description": "En raison de travaux sur la place, l'arrêt n'est pas desservi"
         }
@@ -40,16 +40,16 @@
       "ligne": "3",
       "infos_trafic": [
         {
-          "annonce": "03/05/2023",
-          "debut": "04/05/2023",
+          "annonce": "05/03/2023",
+          "debut": "05/04/2023",
           "fin": "05/05/2023",
           "titre": "Manifestation",
           "description": "En raison d'une manifestation, des déviations sont mises en place"
         },
         {
-          "annonce": "06/05/2023",
-          "debut": "06/05/2023",
-          "fin": "07/05/2023",
+          "annonce": "05/06/2023",
+          "debut": "05/08/2023",
+          "fin": "05/11/2023",
           "titre": "Travaux avenue Carnot",
           "description": "En raison de travaux sur l'avenue, des arrêts ne sont pas desservis"
         }
