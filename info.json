@@ -13,6 +13,18 @@
       ]
     },
     {
+      "ligne": "60",
+      "infos_trafic": [
+        {
+          "annonce": "04/05/2023",
+          "debut": "05/05/2023",
+          "fin": "06/05/2023",
+          "titre": "Lancement de la ligne",
+          "description": "En raison de travaux sur la place, l'arrêt n'est pas desservi"
+        }
+      ]
+    },
+    {
       "ligne": "3",
       "infos_trafic": [
         {
