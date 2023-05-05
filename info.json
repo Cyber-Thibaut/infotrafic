@@ -1,27 +1,25 @@
 {
   "lignes": [
     {
-      "numero": "2",
+      "ligne": "2",
       "infos_trafic": [
         {
           "annonce": "04/05/2023",
           "debut": "05/05/2023",
           "fin": "06/05/2023",
           "titre": "Travaux place de Jaude",
-          "icone": "2.png",
           "description": "En raison de travaux sur la place, l'arrêt n'est pas desservi"
         }
       ]
     },
     {
-      "numero": "3",
+      "ligne": "3",
       "infos_trafic": [
         {
           "annonce": "03/05/2023",
           "debut": "04/05/2023",
           "fin": "05/05/2023",
           "titre": "Manifestation",
-          "icone": "3.png",
           "description": "En raison d'une manifestation, des déviations sont mises en place"
         },
         {
@@ -29,7 +27,6 @@
           "debut": "06/05/2023",
           "fin": "07/05/2023",
           "titre": "Travaux avenue Carnot",
-          "icone": "3.png",
           "description": "En raison de travaux sur l'avenue, des arrêts ne sont pas desservis"
         }
       ]
