@@ -1,7 +1,7 @@
 {
   "lignes": [
     {
-      "ligne": "2",
+      "numero": "2",
       "infos_trafic": [
         {
           "annonce": "04/05/2023",
@@ -14,7 +14,7 @@
       ]
     },
     {
-      "ligne": "3",
+      "numero": "3",
       "infos_trafic": [
         {
           "annonce": "03/05/2023",
