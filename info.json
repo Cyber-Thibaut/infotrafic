@@ -4,9 +4,9 @@
       "ligne": "2",
       "infos_trafic": [
         {
-          "annonce": "04/05/2023",
-          "debut": "05/05/2023",
-          "fin": "06/05/2023",
+          "annonce": "2023-05-04",
+          "debut": "2023-05-05",
+          "fin": "2023-05-06",
           "titre": "Travaux place de Jaude",
           "description": "En raison de travaux sur la place, l'arrêt n'est pas desservi"
         }
