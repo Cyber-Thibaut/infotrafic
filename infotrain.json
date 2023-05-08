@@ -257,12 +257,7 @@
           "fin": "06/09/2023",
           "titre": "Travaux de signalisation à Dole",
           "description": "En raison de travaux de signalisation à Dole, des perturbations sont à prévoir sur la ligne TER BFC. Des retards et des modifications d'itinéraire peuvent survenir. Veuillez consulter les horaires actualisés."
-        }
-      ]
-    },
-    {
-      "ligne": "TER Bourgogne",
-      "infos_trafic": [
+        },
         {
           "annonce": "05/15/2023",
           "debut": "05/17/2023",
