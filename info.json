@@ -13,6 +13,32 @@
       ]
     },
     {
+      "ligne": "1",
+      "infos_trafic": [
+        {
+          "annonce": "05/09/2023",
+          "debut": "05/11/2023",
+          "fin": "05/28/2023",
+          "titre": "Travaux sur l'avenue Blaise Pascal",
+          "description": "En raison de travaux sur l'avenue Blaise Pascal, l'arrêt 'Campus Cézeaux' sera déplacé de 200 mètres plus loin. Veuillez prendre en compte ce changement lors de vos déplacements."
+        },
+        {
+          "annonce": "05/10/2023",
+          "debut": "05/11/2023",
+          "fin": "05/15/2023",
+          "titre": "Attention, déviation temporaire vers la rue Voltaire",
+          "description": "En raison de travaux de voirie, la ligne 1 sera déviée vers la rue Voltaire du 11 mai au 15 mai. Les arrêts habituels seront desservis, mais des retards sont à prévoir."
+        },
+        {
+          "annonce": "05/15/2023",
+          "debut": "05/16/2023",
+          "fin": "05/16/2023",
+          "titre": "Manifestation dans le centre-ville",
+          "description": "En raison d'une manifestation prévue dans le centre-ville, des perturbations sont à prévoir sur la ligne 1. Des retards et des déviations temporaires pourraient affecter les horaires habituels."
+        }
+      ]
+    },
+    {
       "ligne": "2",
       "infos_trafic": [
         {
@@ -21,6 +47,20 @@
           "fin": "06/20/2023",
           "titre": "Travaux mise en place site propre",
           "description": "En raison de travaux sur le tracé de la ligne en vue de son passage en site propre"
+        },
+        {
+          "annonce": "05/09/2023",
+          "debut": "05/09/2023",
+          "fin": "05/24/2023",
+          "titre": "Travaux à l'aéroport",
+          "description": "Des travaux de rénovation auront lieu à l'aéroport. La ligne 2 pourrait connaître des retards et des modifications d'itinéraire pendant cette période. Veuillez prévoir un temps de trajet supplémentaire."
+        },
+        {
+          "annonce": "05/10/2023",
+          "debut": "05/14/2023",
+          "fin": "05/18/2023",
+          "titre": "Attention, changement d'arrêt à la gare centrale",
+          "description": "En raison de travaux à la gare centrale, l'arrêt habituel de la ligne 2 sera déplacé de quelques mètres. Veuillez suivre les indications sur place pour trouver l'arrêt temporaire."
         }
       ]
     },
@@ -40,13 +80,6 @@
           "fin": "05/11/2023",
           "titre": "Travaux avenue Carnot",
           "description": "En raison de travaux sur l'avenue, des arrêts ne sont pas desservis"
-        },
-        {
-          "annonce": "05/03/2023",
-          "debut": "05/07/2023",
-          "fin": "06/21/2023",
-          "titre": "Test infos",
-          "description": "En raison de travaux sur le tracé de la ligne en vue de son passage en site propre"
         }
       ]
     },
