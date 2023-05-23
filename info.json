@@ -4,25 +4,11 @@
       "ligne": "TCM",
       "infos_trafic": [
         {
-          "annonce": "05/09/2023",
-          "debut": "05/09/2023",
-          "fin": "05/12/2023",
-          "titre": "Fin des perturbations",
-          "description": "Retour des fréquentations à 100%, tous les véhicules sont réparés grâce à nos partenaires ! merci à eux 🙏"
-        },
-        {
           "annonce": "05/29/2023",
           "debut": "06/04/2023",
           "fin": "06/04/2023",
           "titre": "Journée sans voitures - Réseau gratuit",
           "description": "Chers voyageurs, nous sommes ravis de vous annoncer que le dimanche 4 juin, à l'occasion de la Journée sans voitures, le réseau de bus de Transport Clermont Métropole (TCM) sera entièrement gratuit. Profitez de cette opportunité pour laisser votre voiture au garage et découvrir une alternative écologique et pratique pour vos déplacements.\nPendant cette journée spéciale, vous pourrez emprunter nos lignes de bus sans aucun frais, contribuant ainsi à la réduction de la congestion routière et à la préservation de l'environnement. Profitez de cette occasion pour explorer notre réseau et découvrir les nombreux itinéraires qui vous permettront de vous déplacer facilement dans la métropole.\nNous vous rappelons que cette offre gratuite ne concerne que la journée du dimanche 4 juin. À partir du lendemain, les tarifs habituels seront de nouveau en vigueur. Rejoignez-nous pour célébrer cette journée sans voitures et adopter un mode de déplacement respectueux de l'environnement. Ensemble, construisons une ville plus durable et agréable à vivre.\nRestez informés des dernières mises à jour concernant notre service pendant cette journée spéciale en consultant notre site web ou en suivant nos réseaux sociaux. Nous vous remercions de votre compréhension et de votre soutien continu.\nPréparez-vous à vivre une journée sans voitures inoubliable et rejoignez-nous le dimanche 4 juin pour profiter du réseau gratuit de TCM. Ensemble, faisons une différence pour notre ville et notre planète."
-        },
-        {
-          "annonce": "05/10/2023",
-          "debut": "05/13/2023",
-          "fin": "05/13/2023",
-          "titre": "Manifestation le samedi 13 mai 2023",
-          "description": "Manifestation le samedi 13 mai 2023 à partir de 15h30.\nRassemblement au Jardin Lecoq puis itinéraire suivant : bd F. Mitterrand, bd Pasteur, rue Bonnabaud, rue E. Gilbert, bd Duclaux, rue Blatin, Place de Jaude, av Julien, rue Bonnabaud, bd Pasteur, bd Mitterrand pour finir au Jardin Lecoq.\nLes lignes 1/2/3/4/5/6/7 pourraient être perturbées ou déviées.\nMerci de votre compréhension."
         }
       ]
     },
@@ -35,20 +21,6 @@
           "fin": "05/28/2023",
           "titre": "Travaux sur l'avenue Blaise Pascal",
           "description": "En raison de travaux sur l'avenue Blaise Pascal, l'arrêt 'Campus Cézeaux' sera déplacé de 200 mètres plus loin. Veuillez prendre en compte ce changement lors de vos déplacements."
-        },
-        {
-          "annonce": "05/10/2023",
-          "debut": "05/11/2023",
-          "fin": "05/15/2023",
-          "titre": "Attention, déviation temporaire vers la rue Voltaire",
-          "description": "En raison de travaux de voirie, la ligne 1 sera déviée vers la rue Voltaire du 11 mai au 15 mai. Les arrêts habituels seront desservis, mais des retards sont à prévoir."
-        },
-        {
-          "annonce": "05/15/2023",
-          "debut": "05/16/2023",
-          "fin": "05/16/2023",
-          "titre": "Manifestation dans le centre-ville",
-          "description": "En raison d'une manifestation prévue dans le centre-ville, des perturbations sont à prévoir sur la ligne 1. Des retards et des déviations temporaires pourraient affecter les horaires habituels."
         }
       ]
     },
@@ -68,13 +40,6 @@
           "fin": "05/24/2023",
           "titre": "Travaux à l'aéroport",
           "description": "Des travaux de rénovation auront lieu à l'aéroport. La ligne 2 pourrait connaître des retards et des modifications d'itinéraire pendant cette période. Veuillez prévoir un temps de trajet supplémentaire."
-        },
-        {
-          "annonce": "05/10/2023",
-          "debut": "05/14/2023",
-          "fin": "05/18/2023",
-          "titre": "Attention, changement d'arrêt à la gare centrale",
-          "description": "En raison de travaux à la gare centrale, l'arrêt habituel de la ligne 2 sera déplacé de quelques mètres. Veuillez suivre les indications sur place pour trouver l'arrêt temporaire."
         }
       ]
     },
@@ -87,13 +52,6 @@
           "fin": "06/20/2023",
           "titre": "Travaux mise en place site propre",
           "description": "Dans le but de toujours mieux vous accompagner au quotidien, la ligne 2 se renouvelle. Des travaux de mise en site propre sont en cours, et nouveaux bus arriveront prochainement. Veuillez nous excuser pour la gêne occasionnée."
-        },
-        {
-          "annonce": "05/06/2023",
-          "debut": "05/08/2023",
-          "fin": "05/11/2023",
-          "titre": "Travaux avenue Carnot",
-          "description": "En raison de travaux sur l'avenue, des arrêts ne sont pas desservis"
         }
       ]
     },
