@@ -133,9 +133,22 @@
         {
           "annonce": "05/04/2023",
           "debut": "05/07/2023",
-          "fin": "06/20/2023",
+          "fin": "06/13/2023",
           "titre": "Ligne fermée",
           "description": "Fin des préparations pour l'ouverture de la ligne"
+        },
+        {
+
+          "annonce": "06/14/2023",
+
+          "debut": "06/14/2023",
+
+          "fin": "06/20/2023",
+
+          "titre": "Lancement de la ligne !",
+
+          "description": "Toutes nos équipes vous attendent dès a présent a bord de nos véhicules ! Bon voyage sur notre réseau !"
+
         }
       ]
     },
@@ -145,9 +158,23 @@
         {
           "annonce": "05/04/2023",
           "debut": "05/07/2023",
-          "fin": "06/20/2023",
+          "fin": "06/13/2023",
           "titre": "Ligne fermée",
           "description": "Fin des préparations pour l'ouverture de la ligne"
+        },
+
+        {
+
+          "annonce": "06/14/2023",
+
+          "debut": "06/14/2023",
+
+          "fin": "06/20/2023",
+
+          "titre": "Lancement de la ligne !",
+
+          "description": "Toutes nos équipes vous attendent dès a présent a bord de nos véhicules ! Bon voyage sur notre réseau !"
+
         }
       ]
     }
