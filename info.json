@@ -1,26 +1,15 @@
 {
   "lignes": [
     {
-      "ligne": "TCM",
+      "ligne": "809",
       "infos_trafic": [
         {
-          "annonce": "05/29/2023",
-          "debut": "06/04/2023",
-          "fin": "06/04/2023",
-          "titre": "Journée sans voitures - Réseau gratuit",
-          "description": "Chers voyageurs, nous sommes ravis de vous annoncer que le dimanche 4 juin, à l'occasion de la Journée sans voitures, le réseau de bus de Transport Clermont Métropole (TCM) sera entièrement gratuit. Profitez de cette opportunité pour laisser votre voiture au garage et découvrir une alternative écologique et pratique pour vos déplacements.\nPendant cette journée spéciale, vous pourrez emprunter nos lignes de bus sans aucun frais, contribuant ainsi à la réduction de la congestion routière et à la préservation de l'environnement. Profitez de cette occasion pour explorer notre réseau et découvrir les nombreux itinéraires qui vous permettront de vous déplacer facilement dans la métropole.\nNous vous rappelons que cette offre gratuite ne concerne que la journée du dimanche 4 juin. À partir du lendemain, les tarifs habituels seront de nouveau en vigueur. Rejoignez-nous pour célébrer cette journée sans voitures et adopter un mode de déplacement respectueux de l'environnement. Ensemble, construisons une ville plus durable et agréable à vivre.\nRestez informés des dernières mises à jour concernant notre service pendant cette journée spéciale en consultant notre site web ou en suivant nos réseaux sociaux. Nous vous remercions de votre compréhension et de votre soutien continu.\nPréparez-vous à vivre une journée sans voitures inoubliable et rejoignez-nous le dimanche 4 juin pour profiter du réseau gratuit de TCM. Ensemble, faisons une différence pour notre ville et notre planète."
-        }
-      ]
-    },
-    {
-      "ligne": "1",
-      "infos_trafic": [
-        {
-          "annonce": "05/09/2023",
-          "debut": "05/11/2023",
-          "fin": "05/28/2023",
-          "titre": "Travaux sur l'avenue Blaise Pascal",
-          "description": "En raison de travaux sur l'avenue Blaise Pascal, l'arrêt 'Campus Cézeaux' sera déplacé de 200 mètres plus loin. Veuillez prendre en compte ce changement lors de vos déplacements."
+          "type": "information",
+          "annonce": "06/19/2023",
+          "debut": "06/21/2023",
+          "fin": "06/21/2023",
+          "titre": "Fête de la musique",
+          "description": "Pour célébrer la musique tous ensemble, nous mettons en place une ligne reliant la Gare Centrale au parc Verlaine. Celle-ci circulera entre 20h et la fermeture du réseau. Bonne soirée en notre compagnie !"
         }
       ]
     },
@@ -28,54 +17,12 @@
       "ligne": "2",
       "infos_trafic": [
         {
-          "annonce": "05/24/2023",
-          "debut": "05/27/2023",
-          "fin": "06/20/2023",
-          "titre": "Travaux mise en place site propre",
-          "description": "Dans le but de toujours mieux vous accompagner au quotidien, la ligne 2 se renouvelle. Des travaux de mise en site propre sont en cours, et nouveaux bus arriveront prochainement. Veuillez nous excuser pour la gêne occasionnée."
-        },
-        {
-          "annonce": "05/09/2023",
-          "debut": "05/09/2023",
-          "fin": "05/24/2023",
-          "titre": "Travaux à l'aéroport",
-          "description": "Des travaux de rénovation auront lieu à l'aéroport. La ligne 2 pourrait connaître des retards et des modifications d'itinéraire pendant cette période. Veuillez prévoir un temps de trajet supplémentaire."
-        }
-      ]
-    },
-    {
-      "ligne": "3",
-      "infos_trafic": [
-        {
-          "annonce": "05/24/2023",
-          "debut": "05/27/2023",
-          "fin": "06/20/2023",
-          "titre": "Travaux mise en place site propre",
-          "description": "Dans le but de toujours mieux vous accompagner au quotidien, la ligne 2 se renouvelle. Des travaux de mise en site propre sont en cours, et nouveaux bus arriveront prochainement. Veuillez nous excuser pour la gêne occasionnée."
-        }
-      ]
-    },
-    {
-      "ligne": "8",
-      "infos_trafic": [
-        {
-          "annonce": "05/04/2023",
-          "debut": "05/07/2023",
-          "fin": "06/20/2023",
-          "titre": "Ligne fermée",
-          "description": "Fin des préparations pour l'ouverture de la ligne"
-        }
-      ]
-    },
-    {
-      "ligne": "9",
-      "infos_trafic": [
-        {
-          "annonce": "05/04/2023",
-          "debut": "05/07/2023",
-          "fin": "06/20/2023",
-          "titre": "Ligne fermée",
-          "description": "Fin des préparations pour l'ouverture de la ligne"
+          "type": "information",
+          "annonce": "06/19/2023",
+          "debut": "06/21/2023",
+          "fin": "06/21/2023",
+          "titre": "Fête de la musique",
+          "description": "Fréquences renforcées pour mieux vous servir pendant cette soirée de la fête de la musique. Bonne soirée en notre compagnie !"
         }
       ]
     },
@@ -83,6 +30,7 @@
       "ligne": "10",
       "infos_trafic": [
         {
+          "type": "fermeture",
           "annonce": "05/04/2023",
           "debut": "05/07/2023",
           "fin": "06/20/2023",
@@ -95,6 +43,7 @@
       "ligne": "11",
       "infos_trafic": [
         {
+          "type": "fermeture",
           "annonce": "05/04/2023",
           "debut": "05/07/2023",
           "fin": "06/20/2023",
@@ -107,6 +56,7 @@
       "ligne": "60",
       "infos_trafic": [
         {
+          "type": "fermeture",
           "annonce": "05/04/2023",
           "debut": "05/07/2023",
           "fin": "06/20/2023",
@@ -119,62 +69,12 @@
       "ligne": "61",
       "infos_trafic": [
         {
+          "type": "fermeture",
           "annonce": "05/04/2023",
           "debut": "05/07/2023",
           "fin": "06/20/2023",
           "titre": "Ligne fermée",
           "description": "Fin des préparations pour l'ouverture de la ligne"
-        }
-      ]
-    },
-    {
-      "ligne": "901",
-      "infos_trafic": [
-        {
-          "annonce": "05/04/2023",
-          "debut": "05/07/2023",
-          "fin": "06/13/2023",
-          "titre": "Ligne fermée",
-          "description": "Fin des préparations pour l'ouverture de la ligne"
-        },
-        {
-
-          "annonce": "06/14/2023",
-
-          "debut": "06/14/2023",
-
-          "fin": "06/20/2023",
-
-          "titre": "Lancement de la ligne !",
-
-          "description": "Toutes nos équipes vous attendent dès a présent a bord de nos véhicules ! Bon voyage sur notre réseau !"
-
-        }
-      ]
-    },
-    {
-      "ligne": "902",
-      "infos_trafic": [
-        {
-          "annonce": "05/04/2023",
-          "debut": "05/07/2023",
-          "fin": "06/13/2023",
-          "titre": "Ligne fermée",
-          "description": "Fin des préparations pour l'ouverture de la ligne"
-        },
-
-        {
-
-          "annonce": "06/14/2023",
-
-          "debut": "06/14/2023",
-
-          "fin": "06/20/2023",
-
-          "titre": "Lancement de la ligne !",
-
-          "description": "Toutes nos équipes vous attendent dès a présent a bord de nos véhicules ! Bon voyage sur notre réseau !"
-
         }
       ]
     }
