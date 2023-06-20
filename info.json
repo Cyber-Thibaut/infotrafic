@@ -8,8 +8,16 @@
           "annonce": "06/19/2023",
           "debut": "06/21/2023",
           "fin": "06/21/2023",
-          "titre": "Fête de la musique",
-          "description": "🎶 Annonce spéciale pour la fête de la musique ! 🎵\nLe 21 juin, la musique sera à l'honneur et TCM se met en rythme pour vous offrir une expérience de transport exceptionnelle. Voici les nouveautés qui vous attendent :\n🚌 Ligne 809 : Reliez la Gare Centrale au parc Verlaine en musique ! Pour célébrer la fête de la musique, la ligne 809 circulera en soirée uniquement le 21 juin. Profitez de ce service spécial pour vous rendre facilement à l'événement et en repartir en toute sécurité.\n🚍 Ligne 2 : Pour accompagner la ligne 809 et vous offrir une mobilité optimale, nous augmentons les fréquences de la ligne 2 en soirée. Vous bénéficierez d'un service renforcé pour vos déplacements pendant la fête de la musique.\n⏰ Heure de fermeture prolongée : Afin de vous permettre de profiter pleinement de la soirée musicale, nous repoussons l'heure de fermeture du réseau à 2 heures après la fin du concert. Vous pourrez ainsi rentrer chez vous en toute sécurité, même après la fin des festivités.\nRendez-vous le 21 juin pour une fête de la musique inoubliable avec TCM ! 🎉🎶 #FêteDeLaMusique #TCM"
+          "titre": "🎶 Annonce spéciale pour la fête de la musique ! 🎵",
+          "description": "Le 21 juin, la musique sera à l'honneur et TCM se met en rythme pour vous offrir une expérience de transport exceptionnelle. Voici les nouveautés qui vous attendent :\n🚌 Ligne 809 : Reliez la Gare Centrale au parc Verlaine en musique ! Pour célébrer la fête de la musique, la ligne 809 circulera en soirée uniquement le 21 juin. Profitez de ce service spécial pour vous rendre facilement à l'événement et en repartir en toute sécurité.\n🚍 Ligne 2 : Pour accompagner la ligne 809 et vous offrir une mobilité optimale, nous augmentons les fréquences de la ligne 2 en soirée. Vous bénéficierez d'un service renforcé pour vos déplacements pendant la fête de la musique.\n⏰ Heure de fermeture prolongée : Afin de vous permettre de profiter pleinement de la soirée musicale, nous repoussons l'heure de fermeture du réseau à 2 heures après la fin du concert. Vous pourrez ainsi rentrer chez vous en toute sécurité, même après la fin des festivités\nRendez-vous le 21 juin pour une fête de la musique inoubliable avec TCM ! 🎉🎶 #FêteDeLaMusique #TCM"
+        },
+        {
+          "type": "information",
+          "annonce": "06/28/2023",
+          "debut": "07/01/2023",
+          "fin": "09/03/2023",
+          "titre": "🌞 Annonce spéciale : Nouvelle ligne 804 pour l'été ! 🚌",
+          "description": "Du 1er juillet au 3 septembre 2023, le Parc de l'Étang sera le rendez-vous estival incontournable avec une multitude d'événements et la possibilité de se baigner dans le lac. Afin de faciliter l'accès des habitants et des touristes à ce lieu emblématique, nous sommes ravis de vous annoncer la mise en service de la ligne 804, sur demande de l'Autorité Organisatrice.\nLa ligne 804 reprendra le même itinéraire que l'année passée et offrira des correspondances pratiques avec les lignes principales du réseau. Vous pourrez ainsi vous rendre au Parc de l'Étang en toute simplicité et profiter pleinement des activités estivales proposées.\nRestez à l'écoute pour plus d'informations sur les horaires et les arrêts desservis par la ligne 804. Préparez-vous à vivre un été inoubliable au Parc de l'Étang grâce à cette nouvelle liaison dédiée ! 🌞🚌 #ParcDeLÉtang #TCM"
         }
       ]
     },
@@ -18,11 +26,24 @@
       "infos_trafic": [
         {
           "type": "information",
-          "annonce": "06/19/2023",
+          "annonce": "06/21/2023",
           "debut": "06/21/2023",
           "fin": "06/21/2023",
           "titre": "Fête de la musique",
-          "description": "Pour célébrer la musique tous ensemble, nous mettons en place une ligne reliant la Gare Centrale au parc Verlaine. Celle-ci circulera entre 20h et la fermeture du réseau. Bonne soirée en notre compagnie !"
+          "description": "La ligne est en service ! Profitez bien de la soirée et n'oubliez pas de nous partager vos plus beaux clichés avec le #TCM !"
+        }
+      ]
+    },
+    {
+      "ligne": "804",
+      "infos_trafic": [
+        {
+          "type": "information",
+          "annonce": "06/28/2023",
+          "debut": "07/01/2023",
+          "fin": "09/03/2023",
+          "titre": "C'est l'été !",
+          "description": "La ligne est en service ! Profitez bien de la fraicheur du lac et n'oubliez pas de nous partager vos plus beaux clichés tout au long de l'été avec #TCM !"
         }
       ]
     },
