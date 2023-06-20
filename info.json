@@ -52,11 +52,19 @@
       "infos_trafic": [
         {
           "type": "information",
-          "annonce": "06/19/2023",
+          "annonce": "06/21/2023",
           "debut": "06/21/2023",
           "fin": "06/21/2023",
           "titre": "Fête de la musique",
           "description": "Fréquences renforcées pour mieux vous servir pendant cette soirée de la fête de la musique. Bonne soirée en notre compagnie !"
+        },
+        {
+          "type": "perturbation",
+          "annonce": "06/20/2023",
+          "debut": "06/20/2023",
+          "fin": "06/20/2023",
+          "titre": "Accident de la circulation",
+          "description": "Un accident de circulation viens de se produire sur notre parcours. Tous les véhicules sont déviés, veuillez nous excuser pour la gêne occasionnée."
         }
       ]
     },
