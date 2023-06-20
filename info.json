@@ -1,6 +1,19 @@
 {
   "lignes": [
     {
+      "ligne": "TCM",
+      "infos_trafic": [
+        {
+          "type": "information",
+          "annonce": "06/19/2023",
+          "debut": "06/21/2023",
+          "fin": "06/21/2023",
+          "titre": "Fête de la musique",
+          "description": "🎶 Annonce spéciale pour la fête de la musique ! 🎵\nLe 21 juin, la musique sera à l'honneur et TCM se met en rythme pour vous offrir une expérience de transport exceptionnelle. Voici les nouveautés qui vous attendent :\n🚌 Ligne 809 : Reliez la Gare Centrale au parc Verlaine en musique ! Pour célébrer la fête de la musique, la ligne 809 circulera en soirée uniquement le 21 juin. Profitez de ce service spécial pour vous rendre facilement à l'événement et en repartir en toute sécurité.\n🚍 Ligne 2 : Pour accompagner la ligne 809 et vous offrir une mobilité optimale, nous augmentons les fréquences de la ligne 2 en soirée. Vous bénéficierez d'un service renforcé pour vos déplacements pendant la fête de la musique.\n⏰ Heure de fermeture prolongée : Afin de vous permettre de profiter pleinement de la soirée musicale, nous repoussons l'heure de fermeture du réseau à 2 heures après la fin du concert. Vous pourrez ainsi rentrer chez vous en toute sécurité, même après la fin des festivités.\nRendez-vous le 21 juin pour une fête de la musique inoubliable avec TCM ! 🎉🎶 #FêteDeLaMusique #TCM"
+        }
+      ]
+    },
+    {
       "ligne": "809",
       "infos_trafic": [
         {
