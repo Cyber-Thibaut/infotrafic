@@ -27,6 +27,19 @@
       ]
     },
     {
+      "ligne": "1",
+      "infos_trafic": [
+        {
+          "type": "travaux",
+          "annonce": "06/23/2023",
+          "debut": "07/08/2023",
+          "fin": "07/21/2023",
+          "titre": "🚧 Info Travaux 🚧",
+          "description": "Du 8 juillet au 24 juillet 2023, veuillez noter que des travaux importants auront lieu sur la ligne 1 de notre réseau de bus. Pendant cette période, des déviations seront mises en place et des retards sont à prévoir. Voici les détails des perturbations :\nDéviations :\n    Entre l'arrêt 'Place de Jaude' et 'Rue Bonnabaud', la ligne empruntera la rue 'Rue des Gras' et la rue 'Rue des Chaussetiers'.\n    L'arrêt 'Place des Carmes' sera déplacé à l'arrêt provisoire situé rue 'Rue du Maréchal Foch'.\n    L'arrêt 'Rue des Célestins' ne sera pas desservi. Veuillez utiliser l'arrêt 'Place du Terrail' à la place.\nRetards :\nEn raison des déviations et des travaux en cours, des retards sont à prévoir sur l'ensemble du parcours de la ligne 1. Nous vous prions de nous excuser pour la gêne occasionnée et nous mettrons tout en œuvre pour minimiser les perturbations.\nNous vous remercions de votre compréhension et de votre patience pendant cette période de travaux. Pour toute information supplémentaire, n'hésitez pas à contacter notre service client. #InfoTravaux #Ligne1 #TCM"
+        }
+      ]
+    },
+    {
       "ligne": "10",
       "infos_trafic": [
         {
