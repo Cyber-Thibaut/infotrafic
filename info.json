@@ -4,6 +4,14 @@
       "ligne": "TCM",
       "infos_trafic": [
         {
+          "type": "attention",
+          "annonce": "06/25/2023",
+          "debut": "06/25/2023",
+          "fin": "06/25/2023",
+          "titre": "🌩️ Info Météo 🌩️",
+          "description": "⚠️ Suite aux violents orages qui ont frappé plusieurs quartiers de la ville, des dégâts ont été signalés. En raison de ces événements, des retards sont à prévoir sur l'ensemble du réseau. Nous vous recommandons de prévoir un temps supplémentaire pour vos déplacements.\nLa sécurité de nos passagers et de notre personnel reste notre priorité absolue. Nous travaillons activement pour rétablir la situation dans les meilleurs délais et assurer un service régulier.\nNous nous excusons sincèrement pour les désagréments causés et nous vous remercions de votre compréhension face à cette situation exceptionnelle. Pour toute information complémentaire, n'hésitez pas à contacter notre service clientèle.\nVeuillez rester à l'écoute des mises à jour concernant les retards et les perturbations sur notre réseau.\n🌧️🚌 #InfoMétéo #Retards #TCM"
+        },
+        {
           "type": "information",
           "annonce": "06/22/2023",
           "debut": "07/01/2023",
