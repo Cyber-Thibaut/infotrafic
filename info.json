@@ -12,10 +12,18 @@
           "description": "⚠️ Suite aux violents orages qui ont frappé plusieurs quartiers de la ville, des dégâts ont été signalés. En raison de ces événements, des retards sont à prévoir sur l'ensemble du réseau. Nous vous recommandons de prévoir un temps supplémentaire pour vos déplacements.\nLa sécurité de nos passagers et de notre personnel reste notre priorité absolue. Nous travaillons activement pour rétablir la situation dans les meilleurs délais et assurer un service régulier.\nNous nous excusons sincèrement pour les désagréments causés et nous vous remercions de votre compréhension face à cette situation exceptionnelle. Pour toute information complémentaire, n'hésitez pas à contacter notre service clientèle.\nVeuillez rester à l'écoute des mises à jour concernant les retards et les perturbations sur notre réseau.\n🌧️🚌 #InfoMétéo #Retards #TCM"
         },
         {
+          "type": "fin",
+          "annonce": "07/03/2023",
+          "debut": "07/08/2023",
+          "fin": "07/30/2023",
+          "titre": "🌴 Bonnes vacances ! 🚌",
+          "description": "À partir du samedi 8 juillet, nous passons en horaires de vacances scolaires pour vous accompagner tout au long de l'été. Mais ce n'est pas tout ! Nous avons de bonnes nouvelles à vous annoncer :\n🚌 Des fréquences améliorées : Nous avons pris en compte vos retours et à la rentrée de septembre, nous améliorerons les fréquences sur notre réseau pour vous offrir un service encore plus efficace et régulier. Restez connectés pour en savoir plus !\n🛠️ Des améliorations en cours : Pendant les vacances, nous installerons diverses options, certaines plus visibles que d'autres, pour améliorer la fluidité de notre service. Nous travaillons en coulisses pour rendre vos trajets encore plus agréables et confortables.\nNous vous souhaitons de passer d'excellentes vacances, que vous partiez loin ou que vous profitiez des joies estivales dans notre belle région. Profitez-en pour vous détendre, découvrir de nouveaux horizons et prendre du temps pour vous.\nReposez-vous bien et revenez en septembre pour découvrir les améliorations que nous avons prévues. Bonnes vacances à tous ! 🌞🚌 #BonnesVacances #TCM"
+        },
+        {
           "type": "information",
           "annonce": "06/22/2023",
           "debut": "07/01/2023",
-          "fin": "09/03/2023",
+          "fin": "07/01/2023",
           "titre": "🌞 Annonce spéciale : Nouvelle ligne 804 pour l'été ! 🚌",
           "description": "Du 1er juillet au 3 septembre 2023, le Parc de l'Étang sera le rendez-vous estival incontournable avec une multitude d'événements et la possibilité de se baigner dans le lac. Afin de faciliter l'accès des habitants et des touristes à ce lieu emblématique, nous sommes ravis de vous annoncer la mise en service de la ligne 804, sur demande de l'Autorité Organisatrice.\nLa ligne 804 reprendra le même itinéraire que l'année passée et offrira des correspondances pratiques avec les lignes principales du réseau. Vous pourrez ainsi vous rendre au Parc de l'Étang en toute simplicité et profiter pleinement des activités estivales proposées.\nRestez à l'écoute pour plus d'informations sur les horaires et les arrêts desservis par la ligne 804. Préparez-vous à vivre un été inoubliable au Parc de l'Étang grâce à cette nouvelle liaison dédiée ! 🌞🚌 #ParcDeLÉtang #TCM"
         }
@@ -29,8 +37,8 @@
           "annonce": "07/01/2023",
           "debut": "07/01/2023",
           "fin": "09/03/2023",
-          "titre": "C'est l'été !",
-          "description": "La ligne est en service ! Profitez bien de la fraicheur du lac et n'oubliez pas de nous partager vos plus beaux clichés tout au long de l'été avec #TCM !"
+          "titre": "🚌 La ligne 804 est en service ! 🌊",
+          "description": "C'est avec grand plaisir que nous vous annonçons que la ligne 804 est désormais opérationnelle ! Profitez pleinement de la fraîcheur et de la beauté du lac tout au long de l'été en empruntant notre ligne spécialement dédiée.\nNous sommes impatients de voir vos plus beaux clichés des moments magiques passés au lac. N'oubliez pas de les partager avec nous en utilisant le hashtag #TCM. Vos photos nous permettront de partager ensemble ces instants de bonheur et d'évasion.\nQue vous soyez résidents ou touristes, embarquez à bord de la ligne 804 et laissez-vous transporter vers des journées remplies de détente, de loisirs et de souvenirs inoubliables.\nProfitez de chaque instant et n'hésitez pas à nous contacter pour toute question ou information supplémentaire. Bonne découverte du lac et bon voyage avec la ligne 804 de TCM !\n🚌🌞 #Ligne804 #Lac #PartagezVosPhotos #TCM"
         }
       ]
     },
