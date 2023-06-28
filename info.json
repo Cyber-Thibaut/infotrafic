@@ -48,6 +48,19 @@
       ]
     },
     {
+      "ligne": "1",
+      "infos_trafic": [
+        {
+          "type": "perturbation",
+          "annonce": "06/28/2023",
+          "debut": "06/28/2023",
+          "fin": "06/28/2023",
+          "titre": "🚨 Stationnement Gênant - Déviation en place 🚨",
+          "description": "⚠️ En raison d'un stationnement gênant sur le parcours de la ligne 3, nous sommes contraints de mettre en place une déviation temporaire. Nous tenons à vous informer que des mesures sont prises pour régler cette situation.\nPour assurer la continuité de notre service, veuillez noter les modifications suivantes :\n🚌 Ligne 3 : Une déviation est en cours sur certaines portions du parcours en raison de ce stationnement gênant. Des arrêts pourraient être temporairement déplacés ou supprimés. Merci de votre compréhension pendant cette période.\nNous travaillons activement pour résoudre cette situation et minimiser les impacts sur votre trajet. Votre confort et votre sécurité sont notre priorité absolue.\nRestez informés des mises à jour concernant les horaires et les arrêts impactés par cette déviation. Nous vous remercions de votre patience et de votre coopération pendant cette période.\n🚓 Nous tenons également à remercier les autorités compétentes pour leur intervention rapide. Ensemble, nous veillons à garantir la fluidité de notre service. Merci de votre compréhension.\n🚍🚨  #InfoTrafic #DéviationTemporaire #TCM"
+        }
+      ]
+    },
+    {
       "ligne": "10",
       "infos_trafic": [
         {
