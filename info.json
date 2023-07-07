@@ -5,6 +5,14 @@
       "infos_trafic": [
         {
           "type": "information",
+          "annonce": "07/10/2023",
+          "debut": "07/13/2023",
+          "fin": "07/13/2023",
+          "titre": "🎆 Annonce spéciale : Ligne 809 vers le Feu d'Artifice au Parc Verlaine ! 🚌",
+          "description": "Nous sommes heureux de vous informer que nous mettons en place la ligne 809, spécialement dédiée au Feu d'Artifice qui aura lieu au Parc Verlaine. Cet événement promet d'être mémorable avec plusieurs DJ qui se succèderont entre 21h et 0h30.\nPour faciliter vos déplacements, nous avons augmenté les fréquences des lignes 2 et 3 pour la soirée. Vous pourrez ainsi profiter pleinement de la musique, de la magie et de l'ambiance festive de cet événement.\nEmbarquez à bord de la ligne 809 au départ de la Gare Centrale et laissez-vous transporter vers une soirée inoubliable. La ligne est gratuite, aucun titre de transport n'est à présenter à la montée à bord des bus\nNous vous souhaitons une expérience des plus agréables lors de cette soirée spéciale. Profitez du spectacle et dansez sous les étoiles !\n🚍🎆 #Ligne809 #FeuDArtifice #AmbianceFestive #TCM"
+        },
+        {
+          "type": "information",
           "annonce": "07/03/2023",
           "debut": "07/08/2023",
           "fin": "07/30/2023",
@@ -18,6 +26,19 @@
           "fin": "07/01/2023",
           "titre": "🌞 Annonce spéciale : Nouvelle ligne 804 pour l'été ! 🚌",
           "description": "Du 1er juillet au 3 septembre 2023, le Parc de l'Étang sera le rendez-vous estival incontournable avec une multitude d'événements et la possibilité de se baigner dans le lac. Afin de faciliter l'accès des habitants et des touristes à ce lieu emblématique, nous sommes ravis de vous annoncer la mise en service de la ligne 804, sur demande de l'Autorité Organisatrice.\nLa ligne 804 reprendra le même itinéraire que l'année passée et offrira des correspondances pratiques avec les lignes principales du réseau. Vous pourrez ainsi vous rendre au Parc de l'Étang en toute simplicité et profiter pleinement des activités estivales proposées.\nRestez à l'écoute pour plus d'informations sur les horaires et les arrêts desservis par la ligne 804. Préparez-vous à vivre un été inoubliable au Parc de l'Étang grâce à cette nouvelle liaison dédiée ! 🌞🚌 #ParcDeLÉtang #TCM"
+        }
+      ]
+    },
+    {
+      "ligne": "809",
+      "infos_trafic": [
+        {
+          "type": "information",
+          "annonce": "07/01/2023",
+          "debut": "07/01/2023",
+          "fin": "09/03/2023",
+          "titre": "🎆 C'est le jour J ! Ligne 809 gratuite pour la Fête Nationale ! 🚌",
+          "description": "🎇 Nous sommes fiers de vous annoncer que la ligne 809 est désormais en service, spécialement pour célébrer la Fête Nationale au Parc Verlaine ! Et la bonne nouvelle : la ligne 809 est GRATUITE pour tous les voyageurs !\nLes fréquences des lignes 2 et 3 ont été renforcées pour vous offrir une soirée festive inoubliable. Embarquez à bord et laissez-nous vous conduire vers des moments de joie et d'émerveillement.\nN'oubliez pas de vous munir de votre esprit festif et de votre bonne humeur pour vivre pleinement cette soirée exceptionnelle.\nProfitez du spectacle grandiose du Feu d'Artifice, des DJ enflammés et de l'ambiance électrisante qui régnera tout au long de la soirée !\n🚍🎇 #Ligne809 #Gratuité #FêteNationale #TCM"
         }
       ]
     },
@@ -48,15 +69,15 @@
       ]
     },
     {
-      "ligne": "7",
+      "ligne": "3",
       "infos_trafic": [
         {
-          "type": "perturbation",
-          "annonce": "07/04/2023",
-          "debut": "07/04/2023",
-          "fin": "07/04/2023",
-          "titre": "🚨 Info Trafic 🚨",
-          "description": "⚠️ En raison d'un accident de la circulation sur la ligne 7, nous sommes contraints de mettre en place une déviation temporaire entre la piscine de Coubertin et la Grande Halle D'Auvergne. Veuillez noter les arrêts déviés suivants :\n🚏 Arrêts déviés :<ul><li>Arrêt 'Stade Municipal' est déplacé à l'arrêt provisoire 'Rue des Sports'.</li><li>Arrêt 'Rue des Chênes' est déplacé à l'arrêt provisoire 'Avenue des Platanes'.</li><li>Arrêt 'Parc du Belvédère' est déplacé à l'arrêt provisoire 'Avenue de la Vue'.</li></ul>Nous mettons tout en œuvre pour résoudre la situation dans les meilleurs délais et rétablir le service normal. Votre sécurité et votre confort sont notre priorité absolue.\nMerci de votre compréhension et de votre patience pendant cette période de déviation temporaire.\n🚍🚧 #InfoTrafic #DéviationTemporaire #TCM"
+          "type": "travaux",
+          "annonce": "07/20/2023",
+          "debut": "07/25/2023",
+          "fin": "07/28/2023",
+          "titre": "🚧 Info Travaux 🚧",
+          "description": "⚠️ Du 25/07/2023 au 28/07/2023, des travaux auront lieu sur la ligne 3. Pendant cette période, des perturbations sont à prévoir. Des déviations pourraient être mises en place et certains arrêts pourraient être temporairement déplacés ou supprimés.\nNous nous excusons pour les désagréments causés et nous vous remercions de votre patience et de votre compréhension pendant cette période de travaux.\nPour plus d'informations, veuillez contacter notre service clientèle. #InfoTravaux #TCM"
         }
       ]
     },
