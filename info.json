@@ -4,12 +4,12 @@
       "ligne": "TCM",
       "infos_trafic": [
         {
-          "type": "information",
-          "annonce": "07/10/2023",
+          "type": "attention",
+          "annonce": "07/13/2023",
           "debut": "07/13/2023",
-          "fin": "07/13/2023",
-          "titre": "🎆 Annonce spéciale : Ligne 809 vers le Feu d'Artifice au Parc Verlaine ! 🚌",
-          "description": "Nous sommes heureux de vous informer que nous mettons en place la ligne 809, spécialement dédiée au Feu d'Artifice qui aura lieu au Parc Verlaine. Cet événement promet d'être mémorable avec plusieurs DJ qui se succèderont entre 21h et 0h30.\nPour faciliter vos déplacements, nous avons augmenté les fréquences des lignes 2 et 3 pour la soirée. Vous pourrez ainsi profiter pleinement de la musique, de la magie et de l'ambiance festive de cet événement.\nEmbarquez à bord de la ligne 809 au départ de la Gare Centrale et laissez-vous transporter vers une soirée inoubliable. La ligne est gratuite, aucun titre de transport n'est à présenter à la montée à bord des bus\nNous vous souhaitons une expérience des plus agréables lors de cette soirée spéciale. Profitez du spectacle et dansez sous les étoiles !\n🚍🎆 #Ligne809 #FeuDArtifice #AmbianceFestive #TCM"
+          "fin": "07/14/2023",
+          "titre": "📢 Annonce spéciale : Modification horaires et annulation ligne 809 🚍",
+          "description": "Chers voyageurs,\nSuite aux mesures gouvernementales en vigueur et à la demande de la préfète d'Auvergne Rhône-Alpes, nous sommes contraints d'annuler la ligne 809 ce soir ainsi que demain, le 14 juillet, pour la fête nationale.\nDe plus, nous vous informons que le réseau fermera exceptionnellement à 22h, et non à 2h du matin comme initialement prévu. Cette décision a été prise dans un souci de respect des consignes de sécurité et de santé publique.\nMalgré ces ajustements, nous souhaitons à tous nos voyageurs une excellente fête nationale. Profitez de cette journée spéciale dans le respect des mesures en vigueur et célébrons ensemble la fierté de notre pays.\nNous vous remercions de votre compréhension et nous nous excusons pour les désagréments que cela pourrait causer. Votre sécurité et votre bien-être sont notre priorité absolue.\n🚍🎉 #ModificationHoraires #AnnulationLigne809 #FêteNationale #TCM"
         },
         {
           "type": "information",
@@ -18,19 +18,6 @@
           "fin": "07/30/2023",
           "titre": "🌴 Bonnes vacances ! 🚌",
           "description": "À partir du samedi 8 juillet, nous passons en horaires de vacances scolaires pour vous accompagner tout au long de l'été. Mais ce n'est pas tout ! Nous avons de bonnes nouvelles à vous annoncer :\n🚌 Des fréquences améliorées : Nous avons pris en compte vos retours et à la rentrée de septembre, nous améliorerons les fréquences sur notre réseau pour vous offrir un service encore plus efficace et régulier. Restez connectés pour en savoir plus !\n🛠️ Des améliorations en cours : Pendant les vacances, nous installerons diverses options, certaines plus visibles que d'autres, pour améliorer la fluidité de notre service. Nous travaillons en coulisses pour rendre vos trajets encore plus agréables et confortables.\nNous vous souhaitons de passer d'excellentes vacances, que vous partiez loin ou que vous profitiez des joies estivales dans notre belle région. Profitez-en pour vous détendre, découvrir de nouveaux horizons et prendre du temps pour vous.\nReposez-vous bien et revenez en septembre pour découvrir les améliorations que nous avons prévues. Bonnes vacances à tous ! 🌞🚌 #BonnesVacances #TCM"
-        }
-      ]
-    },
-    {
-      "ligne": "809",
-      "infos_trafic": [
-        {
-          "type": "information",
-          "annonce": "07/13/2023",
-          "debut": "07/13/2023",
-          "fin": "07/13/2023",
-          "titre": "🎆 C'est le jour J ! Ligne 809 gratuite pour la Fête Nationale ! 🚌",
-          "description": "🎇 Nous sommes fiers de vous annoncer que la ligne 809 est désormais en service, spécialement pour célébrer la Fête Nationale au Parc Verlaine ! Et la bonne nouvelle : la ligne 809 est GRATUITE pour tous les voyageurs !\nLes fréquences des lignes 2 et 3 ont été renforcées pour vous offrir une soirée festive inoubliable. Embarquez à bord et laissez-nous vous conduire vers des moments de joie et d'émerveillement.\nN'oubliez pas de vous munir de votre esprit festif et de votre bonne humeur pour vivre pleinement cette soirée exceptionnelle.\nProfitez du spectacle grandiose du Feu d'Artifice, des DJ enflammés et de l'ambiance électrisante qui régnera tout au long de la soirée !\n🚍🎇 #Ligne809 #Gratuité #FêteNationale #TCM"
         }
       ]
     },
