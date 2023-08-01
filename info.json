@@ -70,6 +70,22 @@
           "fin": "08/06/2023",
           "titre": "⚠️ Annonce Travaux ⚒️",
           "description": "Chers voyageurs de la ligne 5,\nVeuillez prendre note qu'il y aura des travaux sur votre ligne du <strong>21/07/2023 au 06/08/2023</strong>. Pendant cette période, des perturbations sont à prévoir. Certains tronçons du parcours seront affectés, entraînant des déviations temporaires et des ajustements des arrêts. Les arrêts suivants seront déviés ou non desservis :<ul><li>L'arrêt 'Place de la Libération' sera déplacé à l'arrêt provisoire situé rue 'Rue des Gras'.</li><li>L'arrêt 'Rue des Carmes' ne sera pas desservi. Veuillez utiliser l'arrêt 'Place Delille' à la place.</li></ul>Nous nous excusons pour les désagréments occasionnés et nous vous remercions de votre compréhension et de votre coopération pendant cette période de travaux. Nous travaillons pour minimiser les perturbations et vous offrir un service fiable.\nPour toute information complémentaire, n'hésitez pas à contacter notre service clientèle.\n🚍🚧 #AnnonceTravaux #Ligne5 #Perturbations #TCM"
+        },
+        {
+          "type": "travaux",
+          "annonce": "08/01/2023",
+          "debut": "08/04/2023",
+          "fin": "08/08/2023",
+          "titre": "⚠️ Annonce Travaux ⚒️",
+          "description": "Chers voyageurs de la ligne 5,\nVeuillez noter que des travaux auront lieu sur votre ligne du <strong>04/08/2023 au 08/08/2023 au parvis de la Gare de l'Ouest</strong>. Pendant cette période, l'arrêt habituel sera déplacé à un arrêt provisoire. Nous mettons tout en œuvre pour minimiser les perturbations et vous offrir un service fiable.\nNous vous remercions de votre compréhension pendant cette période de travaux. Pour toute information complémentaire, n'hésitez pas à contacter notre service clientèle.\n🚍🚧 #AnnonceTravaux #Ligne5 #Perturbations #TCM"
+        },
+        {
+          "type": "travaux",
+          "annonce": "08/13/2023",
+          "debut": "08/15/2023",
+          "fin": "08/16/2023",
+          "titre": "⚠️ Annonce Travaux ⚒️",
+          "description": "Chers voyageurs de la ligne 5,\nVeuillez noter qu'en raison de travaux, l'arrêt 'Sciences Po' ne sera pas desservi du 15/08/2023 au 16/08/2023. Nous vous prions de bien vouloir utiliser les arrêts alternatifs pendant cette période.\nNous nous excusons pour les désagréments occasionnés et nous vous remercions de votre compréhension. Nous travaillons pour minimiser les perturbations et vous offrir un service fiable.\nPour toute information complémentaire, n'hésitez pas à contacter notre service clientèle.\n🚍🚧 #AnnonceTravaux #Ligne5 #Perturbations #TCM"
         }
       ]
     },
