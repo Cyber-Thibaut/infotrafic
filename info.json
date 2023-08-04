@@ -119,12 +119,12 @@
       "ligne": "11",
       "infos_trafic": [
         {
-          "type": "information",
-          "annonce": "07/04/2023",
-          "debut": "07/04/2023",
-          "fin": "07/10/2023",
-          "titre": "🚌 Nouveauté ! Ligne 11 : Campus Marthe Gautier au CHU Estaing 🏥",
-          "description": "📢 Découvrez notre nouvelle ligne 11 qui relie le Campus Marthe Gautier au CHU Estaing, offrant une liaison essentielle entre les établissements universitaires et les services médicaux. Embarquez dès maintenant et profitez d'un trajet pratique et fiable !"
+          "type": "travaux",
+          "annonce": "08/04/2023",
+          "debut": "08/24/2023",
+          "fin": "09/04/2023",
+          "titre": "🚧 Info Travaux 🚧",
+          "description": "Chers voyageurs de la ligne 11,\nNous vous informons qu'en raison de travaux de remplacement des tuyaux de chauffage dans l'avenue le long du CHU Gabriel Montpied, des perturbations auront lieu du 24/08 au 04/09. Pendant cette période, la place Henri Dunant sera bloquée et le terminus habituel à la faculté de médecine, pharmacie et des professions paramédicales sera supprimé.\nNous vous prions de bien vouloir vous reporter à l'arrêt 'Crous Dollet' pour votre trajet pendant cette période. Nous mettons tout en œuvre pour minimiser les perturbations et vous offrir un service fiable.\nNous nous excusons pour les désagréments occasionnés et nous vous remercions de votre compréhension. Pour toute information complémentaire, n'hésitez pas à contacter notre service clientèle.\n🚍🚧 #AnnonceTravaux #Ligne11 #Perturbations #TCM"
         }
       ]
     },
