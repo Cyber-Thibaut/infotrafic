@@ -4,20 +4,12 @@
       "ligne": "TCM",
       "infos_trafic": [
         {
-          "type": "attention",
-          "annonce": "07/13/2023",
-          "debut": "07/13/2023",
-          "fin": "07/14/2023",
-          "titre": "📢 Annonce spéciale : Modification horaires et annulation ligne 809 🚍",
-          "description": "Chers voyageurs,\nSuite aux mesures gouvernementales en vigueur et à la demande de la préfète d'Auvergne Rhône-Alpes, nous sommes contraints d'annuler la ligne 809 ce soir ainsi que demain, le 14 juillet, pour la fête nationale.\nDe plus, nous vous informons que le réseau fermera exceptionnellement à 22h, et non à 2h du matin comme initialement prévu. Cette décision a été prise dans un souci de respect des consignes de sécurité et de santé publique.\nMalgré ces ajustements, nous souhaitons à tous nos voyageurs une excellente fête nationale. Profitez de cette journée spéciale dans le respect des mesures en vigueur et célébrons ensemble la fierté de notre pays.\nNous vous remercions de votre compréhension et nous nous excusons pour les désagréments que cela pourrait causer. Votre sécurité et votre bien-être sont notre priorité absolue.\n🚍🎉 #ModificationHoraires #AnnulationLigne809 #FêteNationale #TCM"
-        },
-        {
           "type": "information",
-          "annonce": "07/03/2023",
-          "debut": "07/08/2023",
-          "fin": "07/30/2023",
-          "titre": "🌴 Bonnes vacances ! 🚌",
-          "description": "À partir du samedi 8 juillet, nous passons en horaires de vacances scolaires pour vous accompagner tout au long de l'été. Mais ce n'est pas tout ! Nous avons de bonnes nouvelles à vous annoncer :\n🚌 Des fréquences améliorées : Nous avons pris en compte vos retours et à la rentrée de septembre, nous améliorerons les fréquences sur notre réseau pour vous offrir un service encore plus efficace et régulier. Restez connectés pour en savoir plus !\n🛠️ Des améliorations en cours : Pendant les vacances, nous installerons diverses options, certaines plus visibles que d'autres, pour améliorer la fluidité de notre service. Nous travaillons en coulisses pour rendre vos trajets encore plus agréables et confortables.\nNous vous souhaitons de passer d'excellentes vacances, que vous partiez loin ou que vous profitiez des joies estivales dans notre belle région. Profitez-en pour vous détendre, découvrir de nouveaux horizons et prendre du temps pour vous.\nReposez-vous bien et revenez en septembre pour découvrir les améliorations que nous avons prévues. Bonnes vacances à tous ! 🌞🚌 #BonnesVacances #TCM"
+          "annonce": "08/08/2023",
+          "debut": "08/12/2023",
+          "fin": "08/16/2023",
+          "titre": "🎶 Annonce Partenariat avec Concert Nation - Festival d'Orcines 🎶",
+          "description": "Chers festivaliers,\nNous sommes ravis de vous annoncer notre partenariat avec la société Concert Nation pour le Festival d'Orcines, qui se déroulera du 12 au 16 août au pied du Puy-de-Dôme. Nous mettons tout en œuvre pour vous offrir un service de transport pratique et fiable afin de vous amener au cœur de cet événement incontournable.\nTrois parkings (P1, P2, P3) ont été spécialement mis en place pour accueillir vos véhicules. Nous avons également déployé trois lignes de bus pour vous transporter en toute commodité entre les parkings et le festival. Voici les fréquences pour chaque ligne :\n<ul><li>🚌 Ligne 991 - Parking P1 🚗\nDéparts du Parking : 11h30 <-chaque 15 min-> 17h00 <-chaque 20 min-> 21h40\nDéparts du Festival : 11h40 <-chaque 15 min-> 17h10 <-chaque 20 min-> 21h50 <-chaque 10 min-> 01h30 (dernier départ)</li><li>🚌 Ligne 992 - Parking P2 🚗\nDéparts du Parking : 11h30 <-chaque 13 min-> 16h55 <-chaque 18 min-> 21h43\nDéparts du Festival : 11h45 <-chaque 13 min-> 17h10 <-chaque 18 min-> 21h58 <-chaque 9 min-> 01h34 (dernier départ)</li><li>🚌 Ligne 993 - Parking P3 🚗\nDéparts du Parking : 11h30 <-chaque 13 min-> 16h55 <-chaque 16 min-> 21h35\nDéparts du Festival : 11h44 <-chaque 13 min-> 17h09 <-chaque 16 min-> 21h41 <-chaque 8 min-> 01h33 (dernier départ)</li></ul>Nous sommes impatients de vous offrir une expérience de transport pratique et agréable pour profiter pleinement de ce festival exceptionnel. N'hésitez pas à consulter les horaires et itinéraires détaillés sur notre site ou à contacter notre service clientèle pour toute information complémentaire.\nNous vous souhaitons un festival mémorable et nous nous réjouissons de vous accueillir à bord de nos bus !\n🚌🎶 #AnnonceFestival #Partenariat #ConcertNation #TCM"
         }
       ]
     },
@@ -35,42 +27,8 @@
       ]
     },
     {
-      "ligne": "1",
-      "infos_trafic": [
-        {
-          "type": "travaux",
-          "annonce": "06/23/2023",
-          "debut": "07/08/2023",
-          "fin": "07/21/2023",
-          "titre": "🚧 Info Travaux 🚧",
-          "description": "Du 8 juillet au 24 juillet 2023, veuillez noter que des travaux importants auront lieu sur la ligne 1 de notre réseau de bus. Pendant cette période, des déviations seront mises en place et des retards sont à prévoir. Voici les détails des perturbations :\nDéviations :<ul><li>Entre l'arrêt 'Place de Jaude' et 'Rue Bonnabaud', la ligne empruntera la rue 'Rue des Gras' et la rue 'Rue des Chaussetiers'.</li><li>L'arrêt 'Place des Carmes' sera déplacé à l'arrêt provisoire situé rue 'Rue du Maréchal Foch'.</li><li>L'arrêt 'Rue des Célestins' ne sera pas desservi. Veuillez utiliser l'arrêt 'Place du Terrail' à la place.</li></ul>Retards :\nEn raison des déviations et des travaux en cours, des retards sont à prévoir sur l'ensemble du parcours de la ligne 1. Nous vous prions de nous excuser pour la gêne occasionnée et nous mettrons tout en œuvre pour minimiser les perturbations.\nNous vous remercions de votre compréhension et de votre patience pendant cette période de travaux. Pour toute information supplémentaire, n'hésitez pas à contacter notre service client. #InfoTravaux #Ligne1 #TCM"
-        }
-      ]
-    },
-    {
-      "ligne": "3",
-      "infos_trafic": [
-        {
-          "type": "travaux",
-          "annonce": "07/20/2023",
-          "debut": "07/25/2023",
-          "fin": "07/28/2023",
-          "titre": "🚧 Info Travaux 🚧",
-          "description": "⚠️ Du 25/07/2023 au 28/07/2023, des travaux auront lieu sur la ligne 3. Pendant cette période, des perturbations sont à prévoir. Des déviations pourraient être mises en place et certains arrêts pourraient être temporairement déplacés ou supprimés.\nNous nous excusons pour les désagréments causés et nous vous remercions de votre patience et de votre compréhension pendant cette période de travaux.\nPour plus d'informations, veuillez contacter notre service clientèle. #InfoTravaux #TCM"
-        }
-      ]
-    },
-    {
       "ligne": "5",
       "infos_trafic": [
-        {
-          "type": "travaux",
-          "annonce": "07/14/2023",
-          "debut": "07/21/2023",
-          "fin": "08/06/2023",
-          "titre": "⚠️ Annonce Travaux ⚒️",
-          "description": "Chers voyageurs de la ligne 5,\nVeuillez prendre note qu'il y aura des travaux sur votre ligne du <strong>21/07/2023 au 06/08/2023</strong>. Pendant cette période, des perturbations sont à prévoir. Certains tronçons du parcours seront affectés, entraînant des déviations temporaires et des ajustements des arrêts. Les arrêts suivants seront déviés ou non desservis :<ul><li>L'arrêt 'Place de la Libération' sera déplacé à l'arrêt provisoire situé rue 'Rue des Gras'.</li><li>L'arrêt 'Rue des Carmes' ne sera pas desservi. Veuillez utiliser l'arrêt 'Place Delille' à la place.</li></ul>Nous nous excusons pour les désagréments occasionnés et nous vous remercions de votre compréhension et de votre coopération pendant cette période de travaux. Nous travaillons pour minimiser les perturbations et vous offrir un service fiable.\nPour toute information complémentaire, n'hésitez pas à contacter notre service clientèle.\n🚍🚧 #AnnonceTravaux #Ligne5 #Perturbations #TCM"
-        },
         {
           "type": "travaux",
           "annonce": "08/01/2023",
@@ -103,19 +61,6 @@
       ]
     },
     {
-      "ligne": "10",
-      "infos_trafic": [
-        {
-          "type": "fermeture",
-          "annonce": "05/04/2023",
-          "debut": "05/07/2023",
-          "fin": "07/20/2023",
-          "titre": "Ligne fermée",
-          "description": "Fin des préparations pour l'ouverture de la ligne"
-        }
-      ]
-    },
-    {
       "ligne": "11",
       "infos_trafic": [
         {
@@ -125,32 +70,6 @@
           "fin": "09/04/2023",
           "titre": "🚧 Info Travaux 🚧",
           "description": "Chers voyageurs de la ligne 11,\nNous vous informons qu'en raison de travaux de remplacement des tuyaux de chauffage dans l'avenue le long du CHU Gabriel Montpied, des perturbations auront lieu du 24/08 au 04/09. Pendant cette période, la place Henri Dunant sera bloquée et le terminus habituel à la faculté de médecine, pharmacie et des professions paramédicales sera supprimé.\nNous vous prions de bien vouloir vous reporter à l'arrêt 'Crous Dollet' pour votre trajet pendant cette période. Nous mettons tout en œuvre pour minimiser les perturbations et vous offrir un service fiable.\nNous nous excusons pour les désagréments occasionnés et nous vous remercions de votre compréhension. Pour toute information complémentaire, n'hésitez pas à contacter notre service clientèle.\n🚍🚧 #AnnonceTravaux #Ligne11 #Perturbations #TCM"
-        }
-      ]
-    },
-    {
-      "ligne": "60",
-      "infos_trafic": [
-        {
-          "type": "fermeture",
-          "annonce": "05/04/2023",
-          "debut": "05/07/2023",
-          "fin": "07/20/2023",
-          "titre": "Ligne fermée",
-          "description": "Fin des préparations pour l'ouverture de la ligne"
-        }
-      ]
-    },
-    {
-      "ligne": "61",
-      "infos_trafic": [
-        {
-          "type": "fermeture",
-          "annonce": "05/04/2023",
-          "debut": "05/07/2023",
-          "fin": "07/20/2023",
-          "titre": "Ligne fermée",
-          "description": "Fin des préparations pour l'ouverture de la ligne"
         }
       ]
     }
