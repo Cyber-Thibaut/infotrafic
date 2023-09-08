@@ -5,11 +5,19 @@
       "infos_trafic": [
         {
           "type": "information",
-          "annonce": "01/09/2023",
+          "annonce": "09/01/2023",
           "debut": "09/09/2023",
           "fin": "10/21/2023",
           "titre": "🏉 Annonce Spéciale - Coupe du Monde de Rugby 🏆",
           "description": "Chers passionnés de rugby,\nLe plus prestigieux tournoi de rugby masculin au monde arrive en France, et nous sommes ravis d'annoncer que Clermont-Ferrand accueillera quelques matchs exceptionnels ! Le stade de la métropole vibrera aux rythmes des rencontres de la coupe du monde de rugby.\nVoici les dates des matchs à ne pas manquer :\n<ul><li>9/9 à 21h : Angleterre contre Argentine</li><li>17/9 à 15h : Afrique du Sud contre Roumanie</li><li>28/09 à 21h : Japon contre Samoa</li><li>6/10 à 21h : France contre Italie</li><li>21/10 à 21h : Vainqueur du Quart de Finale 3 contre Vainqueur du Quart de Finale 4</li></ul>Pour vous rendre aux matchs en toute simplicité, nous mettons en place une navette spéciale entre la place de Jaude, la gare centrale et le stade. Et devinez quoi ? La navette est GRATUITE pour ceux qui détiennent un billet pour le match ! De plus, les fouilles d'accès au stade seront effectuées lors de la montée dans le bus, garantissant un accès fluide et rapide au stade.\nUn bus toutes les 7 minutes vous conduira à cette incroyable aventure rugbystique. Soutenez le XV de France emmené par le capitaine Antoine Dupont ainsi que nos voisins lyonnais Baptiste Couilloud et Romain Taofifénua (parce que nous soutenons la région 💪) lors du match du 6 octobre !\nEnfilez vos couleurs et vivez l'excitation du rugby à Clermont-Ferrand pendant cette coupe du monde inoubliable.\n🚌🏉 #RugbyCup #ClermontFerrand #NavetteGratuite #XVdeFrance #NeFaisonsXV"
+        },
+        {
+          "type": "information",
+          "annonce": "09/08/2023",
+          "debut": "09/16/2023",
+          "fin": "09/16/2023",
+          "titre": "😎 C'est la Classe ! Journées du Patrimoine 2023 🏛️",
+          "description": "Salut les voyageuses et les voyageurs !\n\nLe 16 septembre, on vous prépare une journée du patrimoine qui sort de l'ordinaire. Oui, c'est bien ça ! On a prévu une petite virée avec des bijoux anciens du transport en commun, mais attention, pas n'importe lesquels. On vous présente la \"Crème de la Crème\" de notre collection :\n\n🚌 Un Renault Agora S, tellement stylé qu'il fait de l'ombre à la Tour Eiffel.\n🚌 Un Man NG 272, qui en a dans le moteur et dans la carrure.\n🚌 Un Mercedes O 305, la Rolls-Royce du transport urbain.\n\nEt tout ça, sous le soleil, parce que même nos bus prennent des vacances ! Ils ont revêtu leurs lunettes de soleil pour l'occasion. 😎\n\nVous voulez voir ces stars du bitume ? Rien de plus simple ! Rejoignez-nous le 16 septembre pour une journée qui s'annonce délicieusement rétro. \n\nPour plus de détails et d'infos sur les horaires, faites un saut sur notre article ici : <a href='https://seal.transport-manager.net/Tibo_lyon/2023/09/08/journee-du-patrimoine-2023/'>En savoir plus</a>.\n\nRestez connectés, et préparez vos appareils photo pour des selfies avec nos vedettes !\n\n🚌📸 #PatrimoineVoyageur #BusVintage #TCM"
         }
       ]
     },
