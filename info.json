@@ -25,6 +25,45 @@
           "description": "<img src='https://cdn.discordapp.com/attachments/1062738561939550250/1157793917136281642/info_travaux.png' width=100% height=100%/>"
         }
       ]
+    },
+    {
+      "ligne": "7",
+      "infos_trafic": [
+        {
+          "type": "travaux",
+          "annonce": "10/05/2023",
+          "debut": "10/25/2023",
+          "fin": "11/13/2023",
+          "titre": "🚧 Travaux sur Ligne 7 🚧",
+          "description": "Chers voyageurs de la ligne 7, veuillez noter qu'à partir du 25/10/2023 jusqu'au 13/11/2023, des travaux auront lieu devant la Piscine Pierre de Coubertin. En raison de ces travaux, des déviations temporaires seront mises en place, et l'arrêt associé sera déplacé. Des fléchages temporaires seront installés pour vous guider. Nous nous excusons pour les désagréments occasionnés."
+        }
+      ]
+    },
+    {
+      "ligne": "6",
+      "infos_trafic": [
+        {
+          "type": "travaux",
+          "annonce": "10/03/2023",
+          "debut": "10/13/2023",
+          "fin": "10/27/2023",
+          "titre": "🚧 Travaux sur Ligne 6 🚧",
+          "description": "Chers voyageurs de la ligne 6, veuillez noter qu'à partir du 13/10/2023 jusqu'au 27/10/2023, des travaux auront lieu sur le réseau de chauffage sur le campus des Cézeaux. En raison de ces travaux, l'arrêt sera déplacé, et des fléchages temporaires seront mis en place pour vous guider. Nous nous excusons pour les désagréments occasionnés."
+        }
+      ]
+    },
+    {
+      "ligne": "5",
+      "infos_trafic": [
+        {
+          "type": "travaux",
+          "annonce": "10/14/2023",
+          "debut": "10/24/2023",
+          "fin": "11/04/2023",
+          "titre": "🚧 Travaux sur Ligne 5 🚧",
+          "description": "Chers voyageurs de la ligne 5, veuillez noter qu'à partir du 24/10/2023 jusqu'au 04/11/2023, des travaux auront lieu pour le projet Inspire devant la faculté de droit. En raison de ces travaux, l'arrêt sera déplacé. Nous nous excusons pour les désagréments occasionnés."
+        }
+      ]
     }
   ]
 }
