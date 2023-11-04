@@ -23,6 +23,14 @@
           "fin": "11/12/2023",
           "titre": "🚧 Info Travaux Ligne 1 🚧",
           "description": "Chers voyageurs de la ligne 1,\nNous vous informons qu'en raison de travaux, le terminus de la gare centrale sera déplacé du 06/11/2023 au 12/11/2023. Pendant cette période, des déviations temporaires seront mises en place. Nous travaillons pour minimiser les perturbations et vous offrir un service fiable.\nNous nous excusons pour les désagréments occasionnés et nous vous remercions de votre compréhension. Pour plus d'informations, veuillez contacter notre service clientèle.\n🚍🚧 #AnnonceTravaux #Ligne1 #Perturbations #TCM"
+        },
+        {
+          "type": "travaux",
+          "annonce": "11/01/2023",
+          "debut": "11/14/2023",
+          "fin": "11/20/2023",
+          "titre": "🚧 Info Travaux Ligne 1 🚧",
+          "description": "Chers voyageurs de la ligne 3,\nVeuillez noter qu'il y aura des travaux impactant notre service du 14/11/2023 au 20/11/2023. Pendant cette période, des déviations temporaires et des ajustements d'arrêts seront mis en place. Nous travaillons dur pour minimiser les perturbations et offrir un service fiable. Pour plus d'informations, contactez notre service clientèle.\n🚧 #AnnonceTravaux #Ligne3 #Perturbations #TCM"
         }
       ]
     },
@@ -31,11 +39,24 @@
       "infos_trafic": [
         {
           "type": "travaux",
-          "annonce": "09/28/2023",
-          "debut": "10/15/2023",
-          "fin": "10/27/2023",
+          "annonce": "10/25/2023",
+          "debut": "11/02/2023",
+          "fin": "11/19/2023",
           "titre": "🚧 Info Travaux 🚧",
-          "description": "<img src='https://cdn.discordapp.com/attachments/1062738561939550250/1157793917136281642/info_travaux.png' width=100% height=100%/>"
+          "description": "Chers voyageurs de la ligne 3,\nVeuillez noter qu'il y aura des travaux impactant notre service du 02/11/2023 au 19/11/2023. Pendant cette période, des déviations temporaires et des ajustements d'arrêts seront mis en place. Nous travaillons dur pour minimiser les perturbations et offrir un service fiable. Pour plus d'informations, contactez notre service clientèle.\n🚧 #AnnonceTravaux #Ligne3 #Perturbations #TCM"
+        }
+      ]
+    },
+    {
+      "ligne": "4",
+      "infos_trafic": [
+        {
+          "type": "travaux",
+          "annonce": "10/28/2023",
+          "debut": "11/13/2023",
+          "fin": "11/30/2023",
+          "titre": "🚧 Info Travaux 🚧",
+          "description": "Chers voyageurs de la ligne 3,\nVeuillez noter qu'il y aura des travaux impactant notre service du 13/11/2023 au 30/11/2023. Pendant cette période, des déviations temporaires et des ajustements d'arrêts seront mis en place. Nous travaillons dur pour minimiser les perturbations et offrir un service fiable. Pour plus d'informations, contactez notre service clientèle.\n🚧 #AnnonceTravaux #Ligne4 #Perturbations #TCM"
         }
       ]
     },
