@@ -4,7 +4,7 @@
       "ligne": "TCM",
       "infos_trafic": [
         {
-          "type": "attention",
+          "type": "information",
           "annonce": "11/21/2023",
           "debut": "11/25/2023",
           "fin": "12/24/2023",
