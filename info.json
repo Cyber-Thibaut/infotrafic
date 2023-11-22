@@ -5,11 +5,11 @@
       "infos_trafic": [
         {
           "type": "attention",
-          "annonce": "10/21/2023",
-          "debut": "10/21/2023",
-          "fin": "11/05/2023",
-          "titre": "🚌⌛ Horaires de Vacances Scolaires ! ⌛🚌",
-          "description": "🍂🎃 Horaires Vacances de la Toussaint en place jusqu'au 5 Nov. 🚌🍁"
+          "annonce": "11/21/2023",
+          "debut": "11/25/2023",
+          "fin": "12/24/2023",
+          "titre": "🌟 Festivités de Noël à Clermont-Ferrand ! 🎅🎄",
+          "description": "<p>🌟 Festivités de Noël à Clermont-Ferrand ! 🎅🎄 Profitez de la magie de Noël dans la métropole. <a href='https://seal.transport-manager.net/Tibo_lyon/2023/11/20/%f0%9f%8c%9f-festivites-de-noel-a-clermont-ferrand-%f0%9f%8e%85%f0%9f%8e%84/'>Plus d'info</a></p>"
         }
       ]
     },
@@ -58,6 +58,14 @@
           "titre": "🚧 Info Travaux 🚧",
           "description": "Chers voyageurs de la ligne 4,\nVeuillez noter qu'il y aura des travaux impactant notre service du 13/11/2023 au 30/11/2023. Pendant cette période, des déviations temporaires et des ajustements d'arrêts seront mis en place. Nous travaillons dur pour minimiser les perturbations et offrir un service fiable. Pour plus d'informations, contactez notre service clientèle.\n🚧 #AnnonceTravaux #Ligne4 #Perturbations #TCM"
         }
+        {
+          "type": "travaux",
+          "annonce": "11/21/2023",
+          "debut": "11/30/2023",
+          "fin": "12/03/2023",
+          "titre": "🚧 Info Travaux 🚧",
+          "description": "Chers voyageurs de la ligne 4,\nVeuillez noter qu'il y aura des travaux impactant notre service du 30/11/2023 au 03/12/2023. Pendant cette période, des déviations temporaires et des ajustements d'arrêts seront mis en place. Nous travaillons dur pour minimiser les perturbations et offrir un service fiable. Pour plus d'informations, contactez notre service clientèle.\n🚧 #AnnonceTravaux #Ligne4 #Perturbations #TCM"
+        }
       ]
     },
     {
@@ -91,11 +99,11 @@
       "infos_trafic": [
         {
           "type": "travaux",
-          "annonce": "10/05/2023",
-          "debut": "10/25/2023",
-          "fin": "11/13/2023",
+          "annonce": "11/09/2023",
+          "debut": "11/21/2023",
+          "fin": "12/05/2023",
           "titre": "🚧 Travaux sur Ligne 7 🚧",
-          "description": "Chers voyageurs de la ligne 7, \nveuillez noter qu'à partir du 25/10/2023 jusqu'au 13/11/2023, des travaux auront lieu devant la Piscine Pierre de Coubertin. \nEn raison de ces travaux, des déviations temporaires seront mises en place, et l'arrêt associé sera déplacé. Des fléchages temporaires seront installés pour vous guider. \nNous nous excusons pour les désagréments occasionnés."
+          "description": "Chers voyageurs de la ligne 7, \nveuillez noter qu'à partir du du 21/11/2023 jusqu'au 05/12/2023, des travaux auront lieu devant la Piscine Pierre de Coubertin. \nEn raison de ces travaux, des déviations temporaires seront mises en place, et l'arrêt associé sera déplacé. Des fléchages temporaires seront installés pour vous guider. \nNous nous excusons pour les désagréments occasionnés."
         }
       ]
     }
