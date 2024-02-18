@@ -12,6 +12,19 @@
           "description": "ℹ️🚌 Fréquences vacances en vigueur du 17 février au 3 mars ! 📅</p>"
         }
       ]
+    },
+    {
+      "ligne": "3",
+      "infos_trafic": [
+        {
+          "type": "information",
+          "annonce": "02/18/2024",
+          "debut": "02/28/2024",
+          "fin": "03/14/2024",
+          "titre": "Information travaux",
+          "description": "<p>Chers voyageurs,</p><p>Nous tenons à vous informer qu'en raison de travaux de réaménagement de voirie, une déviation sera mise en place sur l'itinéraire de la ligne 3. Cette déviation est prévue du <strong>28/02/2024</strong> au <strong>14/03/2024</strong>.</p><p>Nous vous prions de nous excuser pour les éventuels désagréments occasionnés et nous vous remercions pour votre compréhension.</p><p>Restez informés pour toute mise à jour supplémentaire.</p><p><strong>🚌🚧 #Travaux #Ligne3 #TCM 🚧📅</strong></p>"
+        }
+      ]
     }
   ]
 }
