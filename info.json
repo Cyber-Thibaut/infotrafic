@@ -20,6 +20,19 @@
           "description": "🕰️ Le réseau circule aux horaires du dimanche aujourd'hui ! Profitez-en bien ! 🎉"
         }
       ]
+    },
+    {
+      "ligne": "60",
+      "infos_trafic": [
+        {
+          "type": "information",
+          "annonce": "03/27/2024",
+          "debut": "03/27/2024",
+          "fin": "04/10/2024",
+          "titre": "📢 Ouverture de la ligne !",
+          "description": "<p>🚌🎉 C'est avec joie que nous vous annonçons l'inauguration de notre toute nouvelle ligne 60 ! Désormais, reliez la Préfecture au Lycée Jeanne d'Arc en toute facilité.</p><p>🗓️ Date d'ouverture : Mercredi 27 mars 2024</p><p>🛑 Arrêts : Cette ligne compte 17 arrêts, avec un temps de trajet moyen de 20 minutes sur une distance de 5 km.</p><p>🚌 Véhicules : Profitez du confort des Mercedes Sprinter City 45 et des Man eTGE City (en cours de livraison pour les Man) qui desservent cette nouvelle ligne.</p><p>🕒 Horaires : Les horaires sont aménagés pour répondre à vos besoins, avec une fréquence optimale pour minimiser votre attente.</p><p>Consultez notre site web pour plus de détails sur les horaires et les nouveautés !</p><p>#TCM #NouvelleLigne #Ligne60 #ClermontFerrand</p>" 
+        }
+      ]
     }
   ]
 }
