@@ -46,6 +46,19 @@
           "description": "<p>Afin d'améliorer le confort de nos usagers, nous procédons à l'installation de nouveaux abribus avec notre partenaire JCDecaux ! Les arrêts peuvent être déplacés selon les besoins.Les travaux auront lieu jusqu'au 15/06/2024.</p>" 
         }
       ]
+    },
+    {
+      "ligne": "809",
+      "infos_trafic": [
+        {
+          "type": "information",
+          "annonce": "06/05/2024",
+          "debut": "06/21/2024",
+          "fin": "06/21/2024",
+          "titre": "TCM Fête la musique !",
+          "description": "Le 21 juin, venez célébrer la Fête de la Musique au Parc Montjuzet ! Pour faciliter vos déplacements, une navette spéciale est mise en place entre les points suivants :\nGare SNCF\nPlace de Jaude\nHôtel de Région\nHôtel de Ville\n\n⚠️ IMPORTANT ! Un titre de transport est nécessaire pour emprunter la navette.\nRejoignez-nous pour une soirée musicale inoubliable ! 🎵</p><img src='https://i.imgur.com/x94OdCK.png'/>" 
+        }
+      ]
     }
   ]
 }
