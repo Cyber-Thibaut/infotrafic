@@ -30,7 +30,7 @@
       ]
     },
     {
-      "ligne": "ns",
+      "ligne": "NS",
       "infos_trafic": [
         {
           "type": "travaux",
@@ -38,7 +38,7 @@
           "debut": "06/08/2024",
           "fin": "06/08/2024",
           "titre": "Concert Starmania au Zénith d'Auvergne ce samedi 8 juin !",
-          "description": "<p>Mise en place d'une navette <strong>GRATUITE</strong> entre la gare SNCF, la place de Jaude, la gare de la Pardieu et le Zénith. L'accès au véhicule est soumis à la présentation des billets du concert.</p><p><strong>Horaires :</strong> 7 bus circuleront à partir de 17h en direction du Zénith (dernier départ à 19h00), avec un départ toutes les 10 minutes environ.Dernier départ 2h après la fin du concert.</p><p>Bon concert avec TCM !</p>" 
+          "description": "<p>Mise en place d'une navette <strong>GRATUITE</strong> entre la gare SNCF, la place de Jaude, la gare de la Pardieu et le Zénith. L'accès au véhicule est soumis à la présentation des billets du concert.</p><p><strong>Horaires :</strong> 7 bus circuleront à partir de 17h en direction du Zénith (dernier départ à 19h00), avec un départ toutes les 10 minutes environ. Dernier départ 2h après la fin du concert.</p><p>Bon concert avec TCM !</p>" 
         }
       ]
     },
