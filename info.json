@@ -21,11 +21,11 @@
         },
         {
           "type": "information",
-          "annonce": "06/08/2024",
-          "debut": "06/08/2024",
-          "fin": "06/08/2024",
-          "titre": "Concert Starmania au Zénith d'Auvergne ce samedi 8 juin !",
-          "description": "Concert Starmania au Zénith d'Auvergne ce samedi 8 juin ! Navette gratuite de 17h à 19h, retour 2h après le concert. Accès avec billet du concert."
+          "annonce": "06/27/2024",
+          "debut": "06/27/2024",
+          "fin": "06/27/2024",
+          "titre": "Concert Star Académie au Zénith d'Auvergne ce jeudi 27 juin !",
+          "description": "Concert Star Académie au Zénith d'Auvergne ce jeudi 27 juin ! Navette gratuite de 17h à 19h, retour 2h après le concert. Accès avec billet du concert."
         }
       ]
     },
@@ -34,11 +34,11 @@
       "infos_trafic": [
         {
           "type": "information",
-          "annonce": "06/01/2024",
-          "debut": "06/08/2024",
-          "fin": "06/08/2024",
-          "titre": "Concert Starmania au Zénith d'Auvergne ce samedi 8 juin !",
-          "description": "<p>Mise en place d'une navette <strong>GRATUITE</strong> entre la gare SNCF, la place de Jaude, la gare de la Pardieu et le Zénith. L'accès au véhicule est soumis à la présentation des billets du concert.</p><p><strong>Horaires :</strong> 7 bus circuleront à partir de 17h en direction du Zénith (dernier départ à 19h00), avec un départ toutes les 10 minutes environ. Dernier départ 2h après la fin du concert.</p><p>Bon concert avec TCM !</p>" 
+          "annonce": "06/22/2024",
+          "debut": "06/27/2024",
+          "fin": "06/27/2024",
+          "titre": "Concert le 27 juin à 20h par la Star Academy au Zénith d'Auvergne",
+          "description": "<p>Départ des navettes à 17h30 (ouverture des portes du Zénith à 18h30), dernier départ minuit du Zénith. L'accès aux navettes est réservé aux porteurs d'une place de concert.</p><p>Profitez de notre service de navettes pour un trajet confortable et sans souci.</p><p>Bon concert avec TCM !</p>" 
         }
       ]
     },
