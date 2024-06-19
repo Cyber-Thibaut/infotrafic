@@ -80,6 +80,58 @@
           "description": "Le 21 juin, venez célébrer la Fête de la Musique au Parc Montjuzet ! Pour faciliter vos déplacements, une navette spéciale est mise en place entre les points suivants :<ul><li>Gare SNCF</li><li>Place de Jaude</li><li>Hôtel de Région</li><li>Hôtel de Ville</li></ul><b>⚠️ IMPORTANT !</b> Un titre de transport valide est nécessaire pour emprunter la navette.\nRejoignez-nous pour une soirée musicale inoubliable ! 🎵</p><img src='https://i.imgur.com/x94OdCK.png'/>" 
         }
       ]
+    },
+    {
+      "ligne": "601",
+      "infos_trafic": [
+        {
+          "type": "information",
+          "annonce": "06/19/2024",
+          "debut": "06/19/2024",
+          "fin": "08/31/2024",
+          "titre": "TCM lance le réseau Édu'Volcan pour la rentrée 2024 !",
+          "description": "<p><strong>Les abonnements pour la rentrée de septembre sont disponibles dans nos agences !</strong> 🎒🚌</p><p>Rendez-vous dès maintenant dans nos agences pour souscrire à votre abonnement scolaire pour l'année 2024-2025. Nos équipes sont à votre disposition pour vous fournir toutes les informations nécessaires et vous aider à choisir l'abonnement qui convient le mieux à vos besoins.</p><p>Pour plus de détails, consultez notre site web : <a href='https://tcm-mobilite.vercel.app/src/agences.html'>Consultez la liste de nos agences ici</a>.</p><p>Assurez-vous d'être prêt pour la rentrée avec TCM !</p>" 
+        }
+      ]
+    },
+    {
+      "ligne": "602",
+      "infos_trafic": [
+        {
+          "type": "information",
+          "annonce": "06/19/2024",
+          "debut": "06/19/2024",
+          "fin": "08/31/2024",
+          "titre": "TCM lance le réseau Édu'Volcan pour la rentrée 2024 !",
+          "description": "<p><strong>Les abonnements pour la rentrée de septembre sont disponibles dans nos agences !</strong> 🎒🚌</p><p>Rendez-vous dès maintenant dans nos agences pour souscrire à votre abonnement scolaire pour l'année 2024-2025. Nos équipes sont à votre disposition pour vous fournir toutes les informations nécessaires et vous aider à choisir l'abonnement qui convient le mieux à vos besoins.</p><p>Pour plus de détails, consultez notre site web : <a href='https://tcm-mobilite.vercel.app/src/agences.html'>Consultez la liste de nos agences ici</a>.</p><p>Assurez-vous d'être prêt pour la rentrée avec TCM !</p>" 
+        }
+      ]
+    },
+    {
+      "ligne": "651",
+      "infos_trafic": [
+        {
+          "type": "information",
+          "annonce": "06/19/2024",
+          "debut": "06/19/2024",
+          "fin": "08/31/2024",
+          "titre": "TCM lance le réseau Édu'Volcan pour la rentrée 2024 !",
+          "description": "<p><strong>Les abonnements pour la rentrée de septembre sont disponibles dans nos agences !</strong> 🎒🚌</p><p>Rendez-vous dès maintenant dans nos agences pour souscrire à votre abonnement scolaire pour l'année 2024-2025. Nos équipes sont à votre disposition pour vous fournir toutes les informations nécessaires et vous aider à choisir l'abonnement qui convient le mieux à vos besoins.</p><p>Pour plus de détails, consultez notre site web : <a href='https://tcm-mobilite.vercel.app/src/agences.html'>Consultez la liste de nos agences ici</a>.</p><p>Assurez-vous d'être prêt pour la rentrée avec TCM !</p>" 
+        }
+      ]
+    },
+    {
+      "ligne": "652",
+      "infos_trafic": [
+        {
+          "type": "information",
+          "annonce": "06/19/2024",
+          "debut": "06/19/2024",
+          "fin": "08/31/2024",
+          "titre": "TCM lance le réseau Édu'Volcan pour la rentrée 2024 !",
+          "description": "<p><strong>Les abonnements pour la rentrée de septembre sont disponibles dans nos agences !</strong> 🎒🚌</p><p>Rendez-vous dès maintenant dans nos agences pour souscrire à votre abonnement scolaire pour l'année 2024-2025. Nos équipes sont à votre disposition pour vous fournir toutes les informations nécessaires et vous aider à choisir l'abonnement qui convient le mieux à vos besoins.</p><p>Pour plus de détails, consultez notre site web : <a href='https://tcm-mobilite.vercel.app/src/agences.html'>Consultez la liste de nos agences ici</a>.</p><p>Assurez-vous d'être prêt pour la rentrée avec TCM !</p>" 
+        }
+      ]
     }
   ]
 }
