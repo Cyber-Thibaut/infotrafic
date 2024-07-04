@@ -4,12 +4,12 @@
       "ligne": "TCM",
       "infos_trafic": [
         {
-          "type": "travaux",
-          "annonce": "04/10/2024",
-          "debut": "04/10/2024",
-          "fin": "04/17/2024",
-          "titre": "Travaux aux Cézeaux !",
-          "description": "📢 Fermeture exceptionnelle de l'Agence du Campus des Cézeaux du 10 au 17 avril 2024. Nous vous retrouverons bientôt dans un cadre rénové ! 🏢"
+          "type": "information",
+          "annonce": "07/04/2024",
+          "debut": "07/04/2024",
+          "fin": "07/12/2024",
+          "titre": "Bonne vacances d'été !",
+          "description": "🚌📅 Horaires d'été en vigueur à partir du 6 juillet ! Bonnes vacances et rendez-vous à la rentrée le 2 septembre !"
         },
         {
           "type": "information",
