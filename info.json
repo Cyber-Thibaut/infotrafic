@@ -30,15 +30,15 @@
       ]
     },
     {
-      "ligne": "NS",
+      "ligne": "816",
       "infos_trafic": [
         {
-          "type": "information",
-          "annonce": "06/22/2024",
-          "debut": "06/27/2024",
-          "fin": "06/27/2024",
-          "titre": "Concert le 27 juin à 20h par la Star Academy au Zénith d'Auvergne",
-          "description": "<p>Départ des navettes à 17h30 (ouverture des portes du Zénith à 18h30), dernier départ minuit du Zénith. L'accès aux navettes est réservé aux porteurs d'une place de concert.</p><p>Profitez de notre service de navettes pour un trajet confortable et sans souci.</p><p>Bon concert avec TCM !</p>" 
+          "type": "fermeture",
+          "annonce": "07/30/2024",
+          "debut": "07/30/2024",
+          "fin": "07/30/2024",
+          "titre": "Annulation de la Ligne 816 Aujourd'hui",
+          "description": "En raison du report de l'épreuve de triathlon prévue initialement aujourd'hui, la ligne 816 ne circulera pas ce jour. Rassurez-vous, la ligne sera en place pour la date de report." 
         }
       ]
     },
