@@ -4,12 +4,12 @@
       "ligne": "TCM",
       "infos_trafic": [
         {
-          "type": "information",
-          "annonce": "07/04/2024",
-          "debut": "07/04/2024",
-          "fin": "07/12/2024",
-          "titre": "Bonne vacances d'été !",
-          "description": "🚌📅 Horaires d'été en vigueur à partir du 6 juillet ! Bonnes vacances et rendez-vous à la rentrée le 2 septembre !"
+            "type": "attention",
+            "annonce": "09/29/2024",
+            "debut": "10/01/2024",
+            "fin": "10/01/2024",
+            "titre": "Grève nationale et perturbations sur le réseau TCM",
+            "description": "📢 Les syndicats appellent à une journée de grève interprofessionnelle et de manifestations le 1er octobre 2024. Le réseau sera interrompu de 14h à 18h pour le bon déroulement de la manifestation. Merci de votre compréhension."
         },
         {
           "type": "information",
