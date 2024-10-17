@@ -12,13 +12,14 @@
             "description": "📢 Les syndicats appellent à une journée de grève interprofessionnelle et de manifestations le 1er octobre 2024. Le réseau sera interrompu de 14h à 18h pour le bon déroulement de la manifestation. Merci de votre compréhension."
         },
         {
-          "type": "information",
-          "annonce": "06/21/2024",
-          "debut": "06/21/2024",
-          "fin": "06/21/2024",
-          "titre": "TCM fête la musique !",
-          "description": "La navette 809 est en place ! Rejoignez-nous pour la Fête de la Musique ce soir !"
-        },
+    "type": "attention",
+    "annonce": "10/18/2024",
+    "debut": "10/19/2024",
+    "fin": "11/03/2024",
+    "titre": "Vacances de la Toussaint",
+    "description": "📅 Les horaires de vacances scolaires seront en vigueur du 19 octobre au 3 novembre 2024 pour les vacances de la Toussaint. Bonnes vacances et profitez-en pour découvrir notre région ! 🎃🍂"
+},
+
         {
           "type": "information",
           "annonce": "06/27/2024",
