@@ -22,11 +22,11 @@
 
         {
           "type": "information",
-          "annonce": "06/27/2024",
-          "debut": "06/27/2024",
-          "fin": "06/27/2024",
-          "titre": "Concert Star Académie au Zénith d'Auvergne ce jeudi 27 juin !",
-          "description": "Concert Star Académie au Zénith d'Auvergne ce jeudi 27 juin ! Navette gratuite de 17h à 19h, retour 2h après le concert. Accès avec billet du concert."
+          "annonce": "11/14/2024",
+          "debut": "11/16/2024",
+          "fin": "11/17/2024",
+          "titre": "Compétition de basket au Zénith d'Auvergne les 16 et 17 novembre 2024 !",
+          "description": "Pour faciliter l'accès à cet événement sportif exceptionnel, TCM met en place une navette spéciale au départ de la Gare SNCF.\n<b>Fréquence et Horaires de la navette :</b><ul><li>Départs : Toutes les 15 minutes environ, à partir de 30 minutes avant l'ouverture des portes jusqu'à 10 minutes avant le début de l'événement.</li><li>Retours : Les navettes partent dès qu'elles sont pleines, jusqu'à 2 heures après la fin de l'événement. En cas de forte affluence, le service sera prolongé pour assurer le transport de tous les spectateurs.</li></ul>Nous vous attendons nombreux pour soutenir vos équipes favorites et profiter pleinement de ce week-end sportif ! 🏆"
         }
       ]
     },
@@ -57,16 +57,16 @@
       ]
     },
     {
-      "ligne": "3",
+      "ligne": "NS",
       "infos_trafic": [
         {
-          "type": "travaux",
-          "annonce": "06/10/2024",
-          "debut": "06/10/2024",
-          "fin": "06/19/2024",
-          "titre": "Travaux d'installation d'abribus",
-          "description": "<p>Afin d'améliorer le confort de nos usagers, nous procédons à l'installation de nouveaux abribus avec notre partenaire JCDecaux ! Les arrêts peuvent être déplacés selon les besoins. Les travaux auront lieu jusqu'au 19/06/2024.</p>" 
-        }
+      "type": "information",
+      "annonce": "11/16/2024",
+      "debut": "11/16/2024",
+      "fin": "11/17/2024",
+      "titre": "Mise en place de la Navette Spéciale pour le Basket",
+      "description": "À l'occasion de la compétition de basket au Zénith d'Auvergne, une navette spéciale desservira la ligne depuis la Gare SNCF. Départs toutes les 15 minutes à partir de 30 minutes avant l'ouverture des portes jusqu'à 10 minutes avant le début de l'événement. Retours jusqu'à 2 heures après la fin, avec prolongation du service si nécessaire."
+    }
       ]
     },
     {
