@@ -81,6 +81,31 @@
           "description": "Le 21 juin, venez célébrer la Fête de la Musique au Parc Montjuzet ! Pour faciliter vos déplacements, une navette spéciale est mise en place entre les points suivants :<ul><li>Gare SNCF</li><li>Place de Jaude</li><li>Hôtel de Région</li><li>Hôtel de Ville</li></ul><b>⚠️ IMPORTANT !</b> Un titre de transport valide est nécessaire pour emprunter la navette.\nRejoignez-nous pour une soirée musicale inoubliable ! 🎵</p><img src='https://i.imgur.com/x94OdCK.png'/>" 
         }
       ]
+    },
+    {
+    "ligne": "813",
+    "infos_trafic": [
+    {
+      "type": "information",
+      "annonce": "11/23/2024",
+      "debut": "11/23/2024",
+      "fin": "12/24/2024",
+      "titre": "La navette spéciale 813 est en service !",
+      "description": "🚌 **La navette spéciale 813 est mise en service à l'occasion des festivités de Noël !** \nDu 23 novembre au 24 décembre, cette ligne dessert les zones principales des animations du centre-ville : le marché de Noël, la patinoire, la grande roue et le spectacle son et lumière. \n\n⏰ **Horaires de la navette :**\n- **Lundi au vendredi** : 11h30 à 22h30\n- **Samedi** : 11h30 à 1h30\n- **Dimanche** : 11h30 à 21h30 \n\n🎟️ **Service gratuit** : Pas besoin de titre de transport pour emprunter cette ligne ! \n🔗 **Plus d’infos** sur [notre site](https://tcm-mobilite.vercel.app/src/ligne.html#813)"
+    },
+    {
+      "type": "attention",
+      "annonce": "12/24/2024",
+      "debut": "12/24/2024",
+      "fin": "12/24/2024",
+      "titre": "Modification des horaires de la ligne 813 - 24 décembre",
+      "description": "🎄 **Attention, le 24 décembre, la navette spéciale 813 opérera avec des horaires modifiés en raison de la fermeture anticipée du marché de Noël à 18h.** \n\n⏰ **Horaires modifiés :**\n- **Dernier départ du centre-ville : 18h** \n\nLa ligne s’arrêtera plus tôt pour permettre à tous de profiter des festivités et d’accéder au centre-ville avant la fermeture. Nous vous remercions de votre compréhension et vous souhaitons un joyeux Noël !"
     }
+  ]
+}
+
+  ]
+}
+
   ]
 }
