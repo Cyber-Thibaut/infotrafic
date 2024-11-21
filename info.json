@@ -4,12 +4,12 @@
       "ligne": "TCM",
       "infos_trafic": [
         {
-          "type": "attention",
-          "annonce": "09/29/2024",
-          "debut": "10/01/2024",
-          "fin": "10/01/2024",
-          "titre": "Grève nationale et perturbations sur le réseau TCM",
-          "description": "📢 Les syndicats appellent à une journée de grève interprofessionnelle et de manifestations le 1er octobre 2024. Le réseau sera interrompu de 14h à 18h pour le bon déroulement de la manifestation. Merci de votre compréhension."
+          "type": "alerte",
+          "annonce": "11/21/2024",
+          "debut": "11/21/2024",
+          "fin": "11/21/2024",
+          "titre": "Vigilance ORANGE – Retards à prévoir sur le réseau TCM",
+          "description": "<p>⚠️ <strong>Jeudi 21 novembre 2024</strong></p><p>Le département du <strong>Puy-de-Dôme</strong> a été placé en <strong>vigilance ORANGE pour vent violent</strong> par Météo-France à compter de 11h. Le réseau TCM pourrait connaître <strong>des retards</strong> en raison des conditions météorologiques.</p><h3>📋 <strong>Informations importantes :</strong></h3><ul><li><strong>Suspension des cours à 12h et fermeture des établissements scolaires à 15h.</strong> Les lignes scolaires adapteront leurs horaires en conséquence.</li><li><strong>Prévisions météorologiques :</strong></li><ul><li>Rafales de vent jusqu'à <strong>120 km/h</strong> prévues dans l'après-midi et en soirée.</li><li>Risque de neige et verglas (<strong>vigilance JAUNE</strong>) à prendre en compte sur certains secteurs.</li></ul></ul><h3>🚦 <strong>Consignes et conseils :</strong></h3><ul><li><strong>Des retards ou des ajustements sur les horaires</strong> sont à prévoir sur l’ensemble du réseau.</li><li>Limitez vos déplacements et soyez prudents si vous voyagez avec nous.</li></ul><p>Nous vous tiendrons informés de l’évolution de la situation en temps réel via notre site internet.</p><p>🌐 Plus d'informations sur les conditions météorologiques :</p><ul><li><a href=\"https://www.puy-de-dome.gouv.fr/\" target=\"_blank\">Préfecture du Puy-de-Dôme</a></li><li><a href=\"https://vigilance.meteofrance.fr/fr\" target=\"_blank\">Météo-France</a></li></ul><p>Merci de votre compréhension et restez vigilants !</p>"
         },
         {
           "type": "attention",
