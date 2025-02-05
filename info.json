@@ -12,12 +12,12 @@
           "description": "<p>⚠️ <strong>Lundi 25 novembre 2024</strong></p><p>Le département du <strong>Puy-de-Dôme</strong> a été placé en <strong>vigilance ORANGE pour vent violent</strong> par Météo-France à compter de 11h. Le réseau TCM pourrait connaître <strong>des retards</strong> en raison des conditions météorologiques.</p><h3>📋 <strong>Informations importantes :</strong></h3><ul><li><strong>Prévisions météorologiques :</strong></li><ul><li>Rafales de vent jusqu'à <strong>120 km/h</strong> prévues dans l'après-midi et en soirée.</li><li>Risque de neige et verglas (<strong>vigilance JAUNE</strong>) à prendre en compte sur certains secteurs.</li></ul></ul><h3>🚦 <strong>Consignes et conseils :</strong></h3><ul><li><strong>Des retards ou des ajustements sur les horaires</strong> sont à prévoir sur l’ensemble du réseau.</li><li>Limitez vos déplacements et soyez prudents si vous voyagez avec nous.</li></ul><p>Nous vous tiendrons informés de l’évolution de la situation en temps réel via notre site internet.</p><p>🌐 Plus d'informations sur les conditions météorologiques :</p><ul><li><a href=\"https://www.puy-de-dome.gouv.fr/\" target=\"_blank\">Préfecture du Puy-de-Dôme</a></li><li><a href=\"https://vigilance.meteofrance.fr/fr\" target=\"_blank\">Météo-France</a></li></ul><p>Merci de votre compréhension et restez vigilants !</p>"
         },
         {
-          "type": "attention",
-          "annonce": "12/18/2024",
-          "debut": "12/21/2024",
-          "fin": "01/05/2025",
-          "titre": "Vacances de Noël",
-          "description": "📅 Les horaires de vacances scolaires seront en vigueur du 21 décembre au 5 janvier 2025 pour les vacances de Noël. Toutes les équipes de TCM vous souhaitent d'agréables fêtes de fin d'année !"
+          "type": "information",
+          "annonce": "02/05/2025",
+          "debut": "02/22/2025",
+          "fin": "03/09/2025",
+          "titre": "Passage en horaires de vacances scolaires",
+          "description": "📅 À compter du **samedi 22 février 2025**, l'ensemble du réseau **TCM** passe en **horaires de vacances scolaires** jusqu'au **dimanche 9 mars inclus**. <br><br>🔹 Certaines lignes voient leurs fréquences ajustées.<br>🔹 La ligne **203** est renforcée pour assurer une meilleure desserte de **Super-Besse**.<br><br>📅 Consultez les horaires de votre ligne ici : <a href='https://tcm-mobilite.vercel.app/' target='_blank'>Horaires vacances</a>"
         },
         {
           "type": "information",
@@ -59,25 +59,25 @@
       "ligne": "NS",
       "infos_trafic": [
         {
-          "type": "information",
-          "annonce": "11/16/2024",
-          "debut": "11/16/2024",
-          "fin": "11/17/2024",
-          "titre": "Mise en place de la Navette Spéciale pour le Basket",
-          "description": "À l'occasion de la compétition de basket au Zénith d'Auvergne, une navette spéciale desservira la ligne depuis la Gare SNCF. Départs toutes les 15 minutes à partir de 30 minutes avant l'ouverture des portes jusqu'à 10 minutes avant le début de l'événement. Retours jusqu'à 2 heures après la fin, avec prolongation du service si nécessaire."
+        "type": "evenement",
+        "annonce": "02/05/2025",
+        "debut": "02/12/2025",
+        "fin": "02/13/2025",
+        "titre": "Mise en service de la navette spéciale \"Ligne NS\" pour le Zenith",
+        "description": "🎤 **Concert événement de Dadju & Tayc – \"Héritage\"** 🎶<br><br>Pour assurer vos déplacements lors des concerts exceptionnels des **12 et 13 février 2025**, **TCM met en place une navette spéciale vers le Zenith !**<br><br>🕐 **Horaires de la navette :**<br>✅ **Aller** : Départs toutes les **15 minutes**, dès **1h30 avant l’ouverture des portes**.<br>✅ **Retour** : Départs dès la fin du concert, jusqu'à **2h00 après la fin de l'événement**.<br><br>📍 **Départ depuis la Gare SNCF** et desserte des arrêts habituels du Zenith.<br><br>🚍 **Voyagez l'esprit tranquille, sans stress ni bouchons !** 🎶"
         }
       ]
     },
     {
-      "ligne": "809",
+      "ligne": "203",
       "infos_trafic": [
         {
           "type": "information",
-          "annonce": "06/05/2024",
-          "debut": "06/21/2024",
-          "fin": "06/21/2024",
-          "titre": "TCM Fête la musique !",
-          "description": "Le 21 juin, venez célébrer la Fête de la Musique au Parc Montjuzet ! Pour faciliter vos déplacements, une navette spéciale est mise en place entre les points suivants :<ul><li>Gare SNCF</li><li>Place de Jaude</li><li>Hôtel de Région</li><li>Hôtel de Ville</li></ul><b>⚠️ IMPORTANT !</b> Un titre de transport valide est nécessaire pour emprunter la navette.\nRejoignez-nous pour une soirée musicale inoubliable ! 🎵</p><img src='https://i.imgur.com/x94OdCK.png'/>"
+          "annonce": "02/05/2025",
+          "debut": "02/22/2025",
+          "fin": "03/09/2025",
+          "titre": "Renfort de service pour les vacances d'hiver",
+          "description": "🏔️ Afin de faciliter l'accès à la station de ski **Super-Besse**, la ligne **203** est renforcée pendant les vacances de février, du **22 février au 9 mars (inclus)**. Profitez de plus de fréquences et d'un meilleur confort de voyage pour rejoindre les pistes sans souci ! <br><br>📅 Consultez les horaires ici : <a href='https://tcm-mobilite.vercel.app/src/ligne.html#203' target='_blank'>Détails de la ligne 203</a>"
         }
       ]
     },
