@@ -17,7 +17,7 @@
           "debut": "02/22/2025",
           "fin": "03/09/2025",
           "titre": "Passage en horaires de vacances scolaires",
-          "description": "📅 À compter du **samedi 22 février 2025**, l'ensemble du réseau **TCM** passe en **horaires de vacances scolaires** jusqu'au **dimanche 9 mars inclus**. <br><br>🔹 Certaines lignes voient leurs fréquences ajustées.<br>🔹 La ligne **203** est renforcée pour assurer une meilleure desserte de **Super-Besse**.<br><br>📅 Consultez les horaires de votre ligne ici : <a href='https://tcm-mobilite.vercel.app/' target='_blank'>Horaires vacances</a>"
+          "description": "📅 À compter du <b>samedi 22 février 2025</b>, l'ensemble du réseau <b>TCM</b> passe en <b>horaires de vacances scolaires</b> jusqu'au <b>dimanche 9 mars inclus<b>. <br><br>🔹 Certaines lignes voient leurs fréquences ajustées.<br>🔹 La ligne <b>203</b> est renforcée pour assurer une meilleure desserte de <b>Super-Besse</b>.<br><br>📅 Consultez les horaires de votre ligne ici : <a href='https://tcm-mobilite.vercel.app/' target='_blank'>Horaires vacances</a>"
         },
         {
           "type": "information",
@@ -59,12 +59,12 @@
       "ligne": "NS",
       "infos_trafic": [
         {
-        "type": "evenement",
-        "annonce": "02/05/2025",
-        "debut": "02/12/2025",
-        "fin": "02/13/2025",
-        "titre": "Mise en service de la navette spéciale \"Ligne NS\" pour le Zenith",
-        "description": "🎤 **Concert événement de Dadju & Tayc – \"Héritage\"** 🎶<br><br>Pour assurer vos déplacements lors des concerts exceptionnels des **12 et 13 février 2025**, **TCM met en place une navette spéciale vers le Zenith !**<br><br>🕐 **Horaires de la navette :**<br>✅ **Aller** : Départs toutes les **15 minutes**, dès **1h30 avant l’ouverture des portes**.<br>✅ **Retour** : Départs dès la fin du concert, jusqu'à **2h00 après la fin de l'événement**.<br><br>📍 **Départ depuis la Gare SNCF** et desserte des arrêts habituels du Zenith.<br><br>🚍 **Voyagez l'esprit tranquille, sans stress ni bouchons !** 🎶"
+          "type": "information",
+          "annonce": "02/05/2025",
+          "debut": "02/12/2025",
+          "fin": "02/13/2025",
+          "titre": "Mise en service de la navette spéciale pour le Zenith",
+          "description": "🎤 <b>Concert événement de Dadju & Tayc – \"Héritage\"</b> 🎶<br><br>Pour assurer vos déplacements lors des concerts exceptionnels des <b>12 et 13 février 2025</b>, <b>TCM met en place une navette spéciale vers le Zenith !</b><br><br>🕐 <b>Horaires de la navette :</b><br>✅ <b>Aller</b> : Départs toutes les <b>15 minutes</b>, dès <b>1h30 avant l’ouverture des portes</b>.<br>✅ <b>Retour</b> : Départs dès la fin du concert, jusqu'à <b>2h00 après la fin de l'événement</b>.<br><br>📍 <b>Départ depuis la Gare SNCF</b> et desserte des arrêts habituels du Zenith.<br><br>🚍 <b>Voyagez l'esprit tranquille, sans stress ni bouchons !</b> 🎶"
         }
       ]
     },
@@ -77,7 +77,7 @@
           "debut": "02/22/2025",
           "fin": "03/09/2025",
           "titre": "Renfort de service pour les vacances d'hiver",
-          "description": "🏔️ Afin de faciliter l'accès à la station de ski **Super-Besse**, la ligne **203** est renforcée pendant les vacances de février, du **22 février au 9 mars (inclus)**. Profitez de plus de fréquences et d'un meilleur confort de voyage pour rejoindre les pistes sans souci ! <br><br>📅 Consultez les horaires ici : <a href='https://tcm-mobilite.vercel.app/src/ligne.html#203' target='_blank'>Détails de la ligne 203</a>"
+          "description": "🏔️ Afin de faciliter l'accès à la station de ski <b>Super-Besse</b>, la ligne <b>203</b> est renforcée pendant les vacances de février, du <b>22 février au 9 mars (inclus)</b>. Profitez de plus de fréquences et d'un meilleur confort de voyage pour rejoindre les pistes sans souci ! <br><br>📅 Consultez les horaires ici : <a href='https://tcm-mobilite.vercel.app/src/ligne.html#203' target='_blank'>Détails de la ligne 203</a>"
         }
       ]
     },
@@ -90,7 +90,7 @@
           "debut": "11/23/2024",
           "fin": "12/24/2024",
           "titre": "La navette spéciale 813 est en service !",
-          "description": "🚌 **La navette spéciale 813 est mise en service à l'occasion des festivités de Noël !** \nDu 23 novembre au 24 décembre, cette ligne dessert les zones principales des animations du centre-ville : le marché de Noël, la patinoire, la grande roue et le spectacle son et lumière. \n\n⏰ **Horaires de la navette :**\n- **Lundi au vendredi** : 11h30 à 22h30\n- **Samedi** : 11h30 à 1h30\n- **Dimanche** : 11h30 à 21h30 \n\n🎟️ **Service gratuit** : Pas besoin de titre de transport pour emprunter cette ligne ! \n🔗 **Plus d’infos** sur [notre site](https://tcm-mobilite.vercel.app/src/ligne.html#813)"
+          "description": "🚌 <b>La navette spéciale 813 est mise en service à l'occasion des festivités de Noël !<b> \nDu 23 novembre au 24 décembre, cette ligne dessert les zones principales des animations du centre-ville : le marché de Noël, la patinoire, la grande roue et le spectacle son et lumière. \n\n⏰ <b>Horaires de la navette :<b>\n- <b>Lundi au vendredi<b> : 11h30 à 22h30\n- <b>Samedi<b> : 11h30 à 1h30\n- <b>Dimanche<b> : 11h30 à 21h30 \n\n🎟️ <b>Service gratuit<b> : Pas besoin de titre de transport pour emprunter cette ligne ! \n🔗 <b>Plus d’infos<b> sur [notre site](https://tcm-mobilite.vercel.app/src/ligne.html#813)"
         },
         {
           "type": "attention",
@@ -98,7 +98,7 @@
           "debut": "12/24/2024",
           "fin": "12/24/2024",
           "titre": "Modification des horaires de la ligne 813 - 24 décembre",
-          "description": "🎄 **Attention, le 24 décembre, la navette spéciale 813 opérera avec des horaires modifiés en raison de la fermeture anticipée du marché de Noël à 18h.** \n\n⏰ **Horaires modifiés :**\n- **Dernier départ du centre-ville : 18h** \n\nLa ligne s’arrêtera plus tôt pour permettre à tous de profiter des festivités et d’accéder au centre-ville avant la fermeture. Nous vous remercions de votre compréhension et vous souhaitons un joyeux Noël !"
+          "description": "🎄 <b>Attention, le 24 décembre, la navette spéciale 813 opérera avec des horaires modifiés en raison de la fermeture anticipée du marché de Noël à 18h.<b> \n\n⏰ <b>Horaires modifiés :<b>\n- <b>Dernier départ du centre-ville : 18h<b> \n\nLa ligne s’arrêtera plus tôt pour permettre à tous de profiter des festivités et d’accéder au centre-ville avant la fermeture. Nous vous remercions de votre compréhension et vous souhaitons un joyeux Noël !"
         }
       ]
     }
