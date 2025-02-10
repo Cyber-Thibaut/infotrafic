@@ -74,10 +74,10 @@
         {
           "type": "information",
           "annonce": "02/05/2025",
-          "debut": "02/22/2025",
+          "debut": "02/10/2025",
           "fin": "03/09/2025",
           "titre": "Renfort de service pour les vacances d'hiver",
-          "description": "🏔️ Afin de faciliter l'accès à la station de ski <b>Super-Besse</b>, la ligne <b>203</b> est renforcée pendant les vacances de février, du <b>22 février au 9 mars (inclus)</b>. Profitez de plus de fréquences et d'un meilleur confort de voyage pour rejoindre les pistes sans souci ! <br><br>📅 Consultez les horaires ici : <a href='https://tcm-mobilite.vercel.app/src/ligne.html#203' target='_blank'>Détails de la ligne 203</a>"
+          "description": "🏔️ Afin de faciliter l'accès à la station de ski <b>Super-Besse</b>, la ligne <b>203</b> est renforcée pendant les vacances de février, du <b>10 février au 9 mars (inclus)</b>. Profitez de plus de fréquences et d'un meilleur confort de voyage pour rejoindre les pistes sans souci ! <br><br>📅 Consultez les horaires ici : <a href='https://tcm-mobilite.vercel.app/src/ligne.html#203' target='_blank'>Détails de la ligne 203</a>"
         }
       ]
     },
