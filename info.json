@@ -140,11 +140,11 @@
                     "detail": "Attention, forte affluence prévue. Privilégiez le Tramway ligne A jusqu'à Montferrand puis la Navette 1."
                 },
                 {
-                    "type": "Information",
-                    "annonce": "2026-02-14",
-                    "fin": "2026-02-14",
-                    "titre": "💖 Soirée St Valentin On Ice",
-                    "detail": "Patinoire géante à l'Arena. Navettes nocturnes jusqu'à 01h00."
+                "type": "Information",
+                "annonce": "2026-02-14T20:00:00",
+                "fin": "2026-02-14T23:00:00",
+                "titre": "Les Los Veranos à la Caramel Arena",
+                "detail": "Ils avaient animé la scène du Parc Verlaine durant les Fêtes de la Musique 2025 et vous les aviez adorés ! Ils sont de retour : Los Veranos présentent en avant‑première leur tout nouvel album le 14 février 2026 à la Caramel Arena.\n\nSouvenez‑vous de ces six talents de la région : Léandro (chant), Lisandro (chant & batterie), Mateo (guitare), Camille (chant & saxophone), Ylan (batterie) et Clara (piano & chœurs). Leur aventure a commencé au club de musique du lycée Karl Marx, et depuis ils ne se quittent plus. Leur reggaeton voluptueux, saupoudré d'électro, conserve la fraîcheur qui vous avait séduit au premier jour — c'est une expérience musicale garantie.\n\nDepuis leur dernière venue, ils ont parcouru l'Europe (Roumanie, République tchèque, Suisse, Slovaquie, Hongrie) et rapportent sur scène toute l'énergie de leurs voyages. Neuf des onze titres de leur nouvel album seront joués en exclusivité lors de ce concert : évocations des journées d'hiver, fraîcheur des festivités et énergie joyeuse au programme.\n\nN'hésitez plus — réservez vos places pour Los Veranos le 14 février à la Caramel Arena !"
                 }
             ]
         },
@@ -154,3 +154,4 @@
         }
     ]
 }
+
