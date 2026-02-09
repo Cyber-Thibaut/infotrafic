@@ -1,106 +1,156 @@
 {
-  "lignes": [
-    {
-      "ligne": "TCM",
-      "infos_trafic": [
+    "lignes": [
         {
-          "type": "fermeture",
-          "annonce": "06/02/2025",
-          "debut": "06/05/2025",
-          "fin": "06/05/2025",
-          "titre": "Alerte grève – Perturbations majeures à prévoir sur le réseau TCM",
-          "description": "<p>⚠️ <strong>Jeudi 5 juin 2025</strong></p><p>En raison d'un mouvement de grève national, le réseau TCM connaîtra des perturbations majeures. Plus de 65% de notre personnel participera à ce mouvement de grève pour protester contre les réformes des retraites et demander des revalorisations salariales.</p><h3>📋 <strong>Informations importantes :</strong></h3><ul><li><strong>Motif de la grève :</strong></li><ul><li>Protestation contre les réformes des retraites.</li><li>Demande de revalorisations salariales.</li></ul><li><strong>Services assurés :</strong></li><ul><li>Seules les lignes scolaires seront assurées.</li><li>Les autres lignes dépendront du personnel présent et pourraient connaître des retards ou des interruptions.</li></ul></ul><h3>🚦 <strong>Consignes et conseils :</strong></h3><ul><li>Limitez vos déplacements et prévoyez des itinéraires alternatifs.</li><li>Renseignez-vous sur les horaires et les lignes disponibles avant de vous déplacer.</li><li>Consultez notre site internet pour des mises à jour en temps réel.</li></ul><p>Nous vous tiendrons informés de l’évolution de la situation en temps réel via notre site internet.</p><p>🌐 Plus d'informations sur les perturbations liées à la grève :</p><ul><li><a href=\"https://www.gouvernement.fr/\" target=\"_blank\">Gouvernement.fr</a></li><li><a href=\"https://www.service-public.fr/\" target=\"_blank\">Service-Public.fr</a></li></ul><p>Merci de votre compréhension et restez vigilants !</p>"
+            "ligne": "TCM",
+            "infos_trafic": [
+                {
+                    "type": "information",
+                    "annonce": "2026-01-01",
+                    "fin": "2026-01-10",
+                    "titre": "Bonne année 2026 !",
+                    "detail": "Tout le réseau TCM vous souhaite une excellente année 2026 remplie de voyages."
+                }
+            ]
         },
         {
-          "type": "information",
-          "annonce": "02/21/2023",
-          "debut": "02/22/2023",
-          "fin": "03/09/2023",
-          "titre": "Passage en horaires de vacances scolaires",
-          "description": "📅 À compter du <b>samedi 22 février 2025</b>, l'ensemble du réseau <b>TCM</b> passe en <b>horaires de vacances scolaires</b> jusqu'au <b>dimanche 9 mars inclus<b>. <br><br>🔹 Certaines lignes voient leurs fréquences ajustées.<br>🔹 La ligne <b>203</b> est renforcée pour assurer une meilleure desserte de <b>Super-Besse</b>.<br><br>📅 Consultez les horaires de votre ligne ici : <a href='https://tcm-mobilite.vercel.app/' target='_blank'>Horaires vacances</a>"
+            "ligne": "A",
+            "infos_trafic": [
+                {
+                    "type": "fermeture",
+                    "annonce": "2026-01-06T08:00:00",
+                    "fin": "2026-01-06T18:00:00",
+                    "titre": "Arrêt momentané - Colis suspect",
+                    "detail": "Tram A interrompu entre Jaude et Lagarlaye. Intervention de police en cours."
+                }
+            ]
         },
         {
-          "type": "information",
-          "annonce": "11/14/2024",
-          "debut": "11/16/2024",
-          "fin": "11/17/2024",
-          "titre": "Compétition de basket au Zénith d'Auvergne les 16 et 17 novembre 2024 !",
-          "description": "Pour faciliter l'accès à cet événement sportif exceptionnel, TCM met en place une navette spéciale au départ de la Gare SNCF.\n<b>Fréquence et Horaires de la navette :</b><ul><li>Départs : Toutes les 15 minutes environ, à partir de 30 minutes avant l'ouverture des portes jusqu'à 10 minutes avant le début de l'événement.</li><li>Retours : Les navettes partent dès qu'elles sont pleines, jusqu'à 2 heures après la fin de l'événement. En cas de forte affluence, le service sera prolongé pour assurer le transport de tous les spectateurs.</li></ul>Nous vous attendons nombreux pour soutenir vos équipes favorites et profiter pleinement de ce week-end sportif ! 🏆"
-        }
-      ]
-    },
-    {
-      "ligne": "816",
-      "infos_trafic": [
-        {
-          "type": "fermeture",
-          "annonce": "07/30/2024",
-          "debut": "07/30/2024",
-          "fin": "07/30/2024",
-          "titre": "Annulation de la Ligne 816 Aujourd'hui",
-          "description": "En raison du report de l'épreuve de triathlon prévue initialement aujourd'hui, la ligne 816 ne circulera pas ce jour. Rassurez-vous, la ligne sera en place pour la date de report."
-        }
-      ]
-    },
-    {
-      "ligne": "2",
-      "infos_trafic": [
-        {
-          "type": "travaux",
-          "annonce": "06/01/2024",
-          "debut": "06/01/2024",
-          "fin": "06/17/2024",
-          "titre": "Travaux d'installation d'abribus",
-          "description": "<p>Afin d'améliorer le confort de nos usagers, nous procédons à l'installation de nouveaux abribus avec notre partenaire JCDecaux ! Les arrêts peuvent être déplacés selon les besoins.Les travaux auront lieu jusqu'au 17/06/2024.</p>"
-        }
-      ]
-    },
-    {
-      "ligne": "NS",
-      "infos_trafic": [
-        {
-          "type": "information",
-          "annonce": "02/05/2025",
-          "debut": "02/12/2025",
-          "fin": "02/13/2025",
-          "titre": "Mise en service de la navette spéciale pour le Zenith",
-          "description": "🎤 <b>Concert événement de Dadju & Tayc – \"Héritage\"</b> 🎶<br><br>Pour assurer vos déplacements lors des concerts exceptionnels des <b>12 et 13 février 2025</b>, <b>TCM met en place une navette spéciale vers le Zenith !</b><br><br>🕐 <b>Horaires de la navette :</b><br>✅ <b>Aller</b> : Départs toutes les <b>15 minutes</b>, dès <b>1h30 avant l’ouverture des portes</b>.<br>✅ <b>Retour</b> : Départs dès la fin du concert, jusqu'à <b>2h00 après la fin de l'événement</b>.<br><br>📍 <b>Départ depuis la Gare SNCF</b> et desserte des arrêts habituels du Zenith.<br><br>🚍 <b>Voyagez l'esprit tranquille, sans stress ni bouchons !</b> 🎶"
-        }
-      ]
-    },
-    {
-      "ligne": "203",
-      "infos_trafic": [
-        {
-          "type": "information",
-          "annonce": "02/05/2025",
-          "debut": "02/10/2025",
-          "fin": "03/09/2025",
-          "titre": "Renfort de service pour les vacances d'hiver",
-          "description": "🏔️ Afin de faciliter l'accès à la station de ski <b>Super-Besse</b>, la ligne <b>203</b> est renforcée pendant les vacances de février, du <b>10 février au 9 mars (inclus)</b>. Profitez de plus de fréquences et d'un meilleur confort de voyage pour rejoindre les pistes sans souci ! <br><br>📅 Consultez les horaires ici : <a href='https://tcm-mobilite.vercel.app/src/ligne.html#203' target='_blank'>Détails de la ligne 203</a>"
-        }
-      ]
-    },
-    {
-      "ligne": "813",
-      "infos_trafic": [
-        {
-          "type": "information",
-          "annonce": "11/23/2024",
-          "debut": "11/23/2024",
-          "fin": "12/24/2024",
-          "titre": "La navette spéciale 813 est en service !",
-          "description": "🚌 <b>La navette spéciale 813 est mise en service à l'occasion des festivités de Noël !<b> \nDu 23 novembre au 24 décembre, cette ligne dessert les zones principales des animations du centre-ville : le marché de Noël, la patinoire, la grande roue et le spectacle son et lumière. \n\n⏰ <b>Horaires de la navette :<b>\n- <b>Lundi au vendredi<b> : 11h30 à 22h30\n- <b>Samedi<b> : 11h30 à 1h30\n- <b>Dimanche<b> : 11h30 à 21h30 \n\n🎟️ <b>Service gratuit<b> : Pas besoin de titre de transport pour emprunter cette ligne ! \n🔗 <b>Plus d’infos<b> sur [notre site](https://tcm-mobilite.vercel.app/src/ligne.html#813)"
+            "ligne": "2",
+            "infos_trafic": [
+                {
+                    "type": "travaux",
+                    "annonce": "2026-01-05",
+                    "fin": "2026-02-15",
+                    "titre": "Travaux de voirie - Secteur Royat",
+                    "detail": "En raison de travaux, l'arrêt Place Allard est reporté 50m plus bas. Prévoir +5 min de trajet."
+                }
+            ]
         },
         {
-          "type": "attention",
-          "annonce": "12/24/2024",
-          "debut": "12/24/2024",
-          "fin": "12/24/2024",
-          "titre": "Modification des horaires de la ligne 813 - 24 décembre",
-          "description": "🎄 <b>Attention, le 24 décembre, la navette spéciale 813 opérera avec des horaires modifiés en raison de la fermeture anticipée du marché de Noël à 18h.<b> \n\n⏰ <b>Horaires modifiés :<b>\n- <b>Dernier départ du centre-ville : 18h<b> \n\nLa ligne s’arrêtera plus tôt pour permettre à tous de profiter des festivités et d’accéder au centre-ville avant la fermeture. Nous vous remercions de votre compréhension et vous souhaitons un joyeux Noël !"
+            "ligne": "4",
+            "infos_trafic": [
+                {
+                    "type": "travaux",
+                    "annonce": "2026-05-20T08:00:00",
+                    "fin": "2026-06-10T18:00:00",
+                    "titre": "Travaux Avenue de la République",
+                    "detail": "Circulation alternée et arrêts déplacés en raison de travaux de voirie."
+                }
+            ]
+        },
+        {
+            "ligne": "5",
+            "infos_trafic": [
+                {
+                    "type": "travaux",
+                    "annonce": "2026-06-15T08:00:00",
+                    "fin": "2026-08-01T20:00:00",
+                    "titre": "Rénovation Pôle d'Échange",
+                    "detail": "Grands travaux d'été. La ligne B ne desservira pas la gare."
+                }
+            ]
+        },
+        {
+            "ligne": "5",
+            "infos_trafic": [
+                {
+                    "type": "déviation",
+                    "annonce": "2026-01-06",
+                    "fin": "2026-01-07",
+                    "titre": "Déviation Centre-Ville",
+                    "detail": "Manifestation en cours. Ligne déviée par les Boulevards."
+                }
+            ]
+        },
+        {
+            "ligne": "3",
+            "infos_trafic": [
+                {
+                    "type": "information",
+                    "annonce": "2026-01-01",
+                    "fin": "2026-01-30",
+                    "titre": "Déplacement d'arrêt provisoire",
+                    "detail": "L'arrêt Gare SNCF est déplacé quai 4 pendant la durée des travaux du parvis."
+                }
+            ]
+        },
+        {
+            "ligne": "10",
+            "infos_trafic": [
+                {
+                    "type": "grève",
+                    "annonce": "2026-01-06T00:00:00",
+                    "fin": "2026-01-06T23:59:59",
+                    "titre": "Mouvement social local",
+                    "detail": "Aucun bus ne circule sur la ligne 10 aujourd'hui."
+                }
+            ]
+        },
+        {
+            "ligne": "20",
+            "infos_trafic": [
+                {
+                    "type": "panne",
+                    "annonce": "2026-01-06T12:00:00",
+                    "fin": "2026-01-06T16:00:00",
+                    "titre": "Incident technique bus",
+                    "detail": "Retards importants à prévoir suite à une panne véhicule rue de l'Oradou."
+                }
+            ]
+        },
+        {
+            "ligne": "NS",
+            "infos_trafic": [
+                {
+                    "type": "Information",
+                    "annonce": "2026-01-06",
+                    "fin": "2026-01-06T23:59:59",
+                    "titre": "🏀 Match d'Inauguration - Arena",
+                    "detail": "Navettes spéciales Tramway + Bus pour le match de ce soir. Gratuit sur présentation du billet."
+                },
+                {
+                    "type": "Information",
+                    "annonce": "2026-01-10",
+                    "fin": "2026-01-10T23:59:59",
+                    "titre": "🎤 Concert : Stromae",
+                    "detail": "La navette NS circule pour le concert de Stromae à la Caramel Arena."
+                },
+                {
+                    "type": "Information",
+                    "annonce": "2026-01-15",
+                    "fin": "2026-01-17",
+                    "titre": "🏐 Tournoi International de Volley",
+                    "detail": "Navettes renforcées pendant les 3 jours de compétition."
+                },
+                {
+                    "type": "Information",
+                    "annonce": "2026-01-24",
+                    "fin": "2026-01-24",
+                    "titre": "🏎️ Monster Truck Show",
+                    "detail": "Attention, forte affluence prévue. Privilégiez le Tramway ligne A jusqu'à Montferrand puis la Navette 1."
+                },
+                {
+                    "type": "Information",
+                    "annonce": "2026-02-14",
+                    "fin": "2026-02-14",
+                    "titre": "💖 Soirée St Valentin On Ice",
+                    "detail": "Patinoire géante à l'Arena. Navettes nocturnes jusqu'à 01h00."
+                }
+            ]
+        },
+        {
+            "ligne": "36",
+            "infos_trafic": []
         }
-      ]
-    }
-  ]
+    ]
 }
